@@ -8,7 +8,8 @@ A circular plate
 
 - Sets 1
   1. Set 1 (edge_nodes): contains the nodes on the outer edge of the plate.
-- Radius 5, thickness: 0.01.
+- Radius 5
+- Thickness: 0.01.
 - Material used in job file: IsoLE 1 d 1. E 10920e3. n 0.0 tAlpha 1.
 - Pressure on elements: 1
 
@@ -21,7 +22,7 @@ Files:
 - *circ_plate_04.in*: 2641 nodes, 1280 elements
 
 Cantilever ring
-=============
+---------------
 
 A cantilever ring with one end clamped and a uniform line load on the other.
 
@@ -33,8 +34,8 @@ A cantilever ring with one end clamped and a uniform line load on the other.
   - Set 3 (mid nodes) The nodes that are in the middle of two vertices of the element and on the edge with the nodal loads. These should have 2 * fz*lz / 3 force.
   - Set 4 (double nodes) The rest of the nodes on the edge with the nodal loads. These should have fz*lz/3 force.
 
-  - Outer radius 10m
-- Inner radius 6 m
+- Outer radius: 10m
+- Inner radius: 6 m
 - Thickness: 0.03
 - Material used in job file: IsoLE 1 d 1. E 2.1e10. n 0.0 tAlpha 1.	
 
@@ -47,7 +48,7 @@ Files
 - *cant_ring_05.in*: 3417 nodes, 1600 elements
 
 Pinched hemisphere
-====================
+------------------
 
 Hemisphere with 18 degree hole at the pole.
 
@@ -56,14 +57,16 @@ Hemisphere with 18 degree hole at the pole.
 - Thickness: 0.04
 - Material: IsoLE 1 d 1. E 6.825e7. n 0.3 tAlpha 1.
 
-*pinch_hemi_20.in*: 832 nodes, 384 elements
+Files
 
-*pinch_hemi_15.in*: 1360 nodes, 640 elements
+- *pinch_hemi_20.in*: 832 nodes, 384 elements
 
-*pinch_hemi_12.in*: 2184 nodes, 1040 elements
+- *pinch_hemi_15.in*: 1360 nodes, 640 elements
+
+- *pinch_hemi_12.in*: 2184 nodes, 1040 elements
 
 Half cylinder
-==============
+-------------
 
 Half cylinder with one clamped end and one free. The load is applied to the middle of the free end. (see 3.7 in Popular benchmark...).
 
