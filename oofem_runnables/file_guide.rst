@@ -27,11 +27,13 @@ A cantilever ring with one end clamped and a uniform line load on the other.
 
 - Line load, up to 1000
 - Sets 4 (NodalLoads cant be applied to sets yet so these have for now be applied manually to the correct nodes).
-  1. Set 1 (clamped) The nodes to be clamped at one of the ring edges
-  2. Set 2 (edge nodes) The nodes at the inner and outer edge that also are on the edge with the nodal loads. These should have fz*lz / 6 force.
-  3. Set 3 (mid nodes) The nodes that are in the middle of two vertices of the element and on the edge with the nodal loads. These should have 2 * fz*lz / 3 force.
-  4. Set 4 (double nodes) The rest of the nodes on the edge with the nodal loads. These should have fz*lz/3 force.
-- Outer radius 10m
+  
+  - Set 1 (clamped) The nodes to be clamped at one of the ring edges
+  - Set 2 (edge nodes) The nodes at the inner and outer edge that also are on the edge with the nodal loads. These should have fz*lz / 6 force.
+  - Set 3 (mid nodes) The nodes that are in the middle of two vertices of the element and on the edge with the nodal loads. These should have 2 * fz*lz / 3 force.
+  - Set 4 (double nodes) The rest of the nodes on the edge with the nodal loads. These should have fz*lz/3 force.
+
+  - Outer radius 10m
 - Inner radius 6 m
 - Thickness: 0.03
 - Material used in job file: IsoLE 1 d 1. E 2.1e10. n 0.0 tAlpha 1.	
@@ -66,12 +68,14 @@ Half cylinder
 Half cylinder with one clamped end and one free. The load is applied to the middle of the free end. (see 3.7 in Popular benchmark...).
 
 - Sets 3
-  1. Set 1 (Clamped) The nodes in the clamped frame
-  2. Set 2 (Edges) The nodes where to specify the rotation
-  3. Set 3 (P) The node where the force is applied
-Radius: 100 (UNSURE ABOUT THIS, COULDNT FIND IN PDF)
-Thickness: 1
-Material: IsoLE 1 d 1. E 2.0685e7. n 0.3 tAlpha 1.
+
+  - Set 1 (Clamped) The nodes in the clamped frame
+  - Set 2 (Edges) The nodes where to specify the rotation
+  - Set 3 (P) The node where the force is applied
+  
+- Radius: 100 (UNSURE ABOUT THIS, COULDNT FIND IN PDF)
+- Thickness: 1
+- Material: IsoLE 1 d 1. E 2.0685e7. n 0.3 tAlpha 1.
 
 Files
 
