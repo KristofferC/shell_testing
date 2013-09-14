@@ -1042,498 +1042,498 @@ node 1034 coords 3 3.983540770000 0.000000000000 -1.401320100000
 node 1035 coords 3 4.122693540000 0.000000000000 -0.568955183000 
 node 1036 coords 3 4.079316140000 0.000000000000 -0.852087975000 
 node 1037 coords 3 4.140272140000 0.000000000000 -0.288357407000 
-tr2shell7 1 nodes 6 11 12 88 274 275 276 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 2 nodes 6 88 82 11 277 278 276 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 3 nodes 6 12 13 87 279 280 281 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 4 nodes 6 87 88 12 282 275 281 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 5 nodes 6 13 14 86 283 284 285 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 6 nodes 6 86 87 13 286 280 285 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 7 nodes 6 14 15 85 287 288 289 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 8 nodes 6 85 86 14 290 284 289 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 9 nodes 6 15 16 84 291 292 293 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 10 nodes 6 84 85 15 294 288 293 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 11 nodes 6 16 17 83 295 296 297 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 12 nodes 6 83 84 16 298 292 297 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 13 nodes 6 17 1 18 299 300 301 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 14 nodes 6 18 83 17 302 296 301 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 15 nodes 6 18 19 83 303 304 302 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 16 nodes 6 19 94 83 305 306 304 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 17 nodes 6 19 20 94 307 308 305 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 18 nodes 6 20 95 94 309 310 308 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 19 nodes 6 20 21 95 311 312 309 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 20 nodes 6 21 96 95 313 314 312 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 21 nodes 6 21 22 96 315 316 313 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 22 nodes 6 22 97 96 317 318 316 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 23 nodes 6 22 23 97 319 320 317 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 24 nodes 6 23 98 97 321 322 320 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 25 nodes 6 23 2 98 323 324 321 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 26 nodes 6 2 24 98 325 326 324 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 27 nodes 6 83 94 84 306 327 298 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 28 nodes 6 94 99 84 328 329 327 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 29 nodes 6 94 95 99 310 330 328 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 30 nodes 6 95 100 99 331 332 330 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 31 nodes 6 95 96 100 314 333 331 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 32 nodes 6 96 101 100 334 335 333 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 33 nodes 6 96 97 101 318 336 334 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 34 nodes 6 97 102 101 337 338 336 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 35 nodes 6 97 98 102 322 339 337 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 36 nodes 6 98 103 102 340 341 339 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 37 nodes 6 98 24 103 326 342 340 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 38 nodes 6 24 25 103 343 344 342 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 39 nodes 6 84 99 85 329 345 294 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 40 nodes 6 99 104 85 346 347 345 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 41 nodes 6 99 100 104 332 348 346 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 42 nodes 6 100 105 104 349 350 348 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 43 nodes 6 100 101 105 335 351 349 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 44 nodes 6 101 106 105 352 353 351 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 45 nodes 6 101 102 106 338 354 352 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 46 nodes 6 102 107 106 355 356 354 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 47 nodes 6 102 103 107 341 357 355 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 48 nodes 6 103 108 107 358 359 357 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 49 nodes 6 103 25 108 344 360 358 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 50 nodes 6 25 26 108 361 362 360 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 51 nodes 6 85 104 86 347 363 290 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 52 nodes 6 104 109 86 364 365 363 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 53 nodes 6 104 105 109 350 366 364 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 54 nodes 6 105 110 109 367 368 366 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 55 nodes 6 105 106 110 353 369 367 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 56 nodes 6 106 111 110 370 371 369 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 57 nodes 6 106 107 111 356 372 370 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 58 nodes 6 107 112 111 373 374 372 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 59 nodes 6 107 108 112 359 375 373 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 60 nodes 6 108 113 112 376 377 375 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 61 nodes 6 108 26 113 362 378 376 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 62 nodes 6 26 27 113 379 380 378 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 63 nodes 6 86 109 87 365 381 286 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 64 nodes 6 109 114 87 382 383 381 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 65 nodes 6 109 110 114 368 384 382 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 66 nodes 6 110 115 114 385 386 384 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 67 nodes 6 110 111 115 371 387 385 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 68 nodes 6 111 116 115 388 389 387 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 69 nodes 6 111 112 116 374 390 388 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 70 nodes 6 112 117 116 391 392 390 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 71 nodes 6 112 113 117 377 393 391 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 72 nodes 6 113 118 117 394 395 393 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 73 nodes 6 113 27 118 380 396 394 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 74 nodes 6 27 28 118 397 398 396 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 75 nodes 6 87 114 88 383 399 282 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 76 nodes 6 114 119 88 400 401 399 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 77 nodes 6 114 115 119 386 402 400 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 78 nodes 6 115 120 119 403 404 402 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 79 nodes 6 115 116 120 389 405 403 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 80 nodes 6 116 121 120 406 407 405 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 81 nodes 6 116 117 121 392 408 406 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 82 nodes 6 117 122 121 409 410 408 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 83 nodes 6 117 118 122 395 411 409 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 84 nodes 6 118 123 122 412 413 411 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 85 nodes 6 118 28 123 398 414 412 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 86 nodes 6 28 29 123 415 416 414 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 87 nodes 6 88 119 82 401 417 277 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 88 nodes 6 119 93 82 418 419 417 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 89 nodes 6 119 120 93 404 420 418 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 90 nodes 6 120 92 93 421 422 420 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 91 nodes 6 120 121 92 407 423 421 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 92 nodes 6 121 91 92 424 425 423 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 93 nodes 6 121 122 91 410 426 424 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 94 nodes 6 122 90 91 427 428 426 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 95 nodes 6 122 123 90 413 429 427 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 96 nodes 6 123 89 90 430 431 429 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 97 nodes 6 123 29 89 416 432 430 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 98 nodes 6 29 30 89 433 434 432 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 99 nodes 6 30 3 6 435 436 437 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 100 nodes 6 6 89 30 438 434 437 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 101 nodes 6 89 6 7 438 439 440 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 102 nodes 6 7 90 89 441 431 440 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 103 nodes 6 90 7 8 441 442 443 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 104 nodes 6 8 91 90 444 428 443 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 105 nodes 6 91 8 9 444 445 446 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 106 nodes 6 9 92 91 447 425 446 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 107 nodes 6 92 9 10 447 448 449 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 108 nodes 6 10 93 92 450 422 449 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 109 nodes 6 93 10 82 450 451 419 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 110 nodes 6 10 11 82 452 278 451 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 111 nodes 6 36 37 137 453 454 455 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 112 nodes 6 137 131 36 456 457 455 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 113 nodes 6 37 38 138 458 459 460 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 114 nodes 6 138 137 37 461 454 460 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 115 nodes 6 38 39 139 462 463 464 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 116 nodes 6 139 138 38 465 459 464 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 117 nodes 6 39 40 140 466 467 468 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 118 nodes 6 140 139 39 469 463 468 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 119 nodes 6 40 41 141 470 471 472 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 120 nodes 6 141 140 40 473 467 472 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 121 nodes 6 41 42 142 474 475 476 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 122 nodes 6 142 141 41 477 471 476 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 123 nodes 6 42 3 30 478 435 479 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 124 nodes 6 30 142 42 480 475 479 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 125 nodes 6 131 137 124 456 481 482 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 126 nodes 6 137 130 124 483 484 481 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 127 nodes 6 137 138 129 461 485 486 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 128 nodes 6 129 130 137 487 483 486 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 129 nodes 6 138 139 128 465 488 489 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 130 nodes 6 128 129 138 490 485 489 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 131 nodes 6 139 140 127 469 491 492 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 132 nodes 6 127 128 139 493 488 492 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 133 nodes 6 140 141 126 473 494 495 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 134 nodes 6 126 127 140 496 491 495 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 135 nodes 6 141 142 125 477 497 498 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 136 nodes 6 125 126 141 499 494 498 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 137 nodes 6 142 30 29 480 433 500 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 138 nodes 6 29 125 142 501 497 500 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 139 nodes 6 29 28 125 415 502 501 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 140 nodes 6 28 143 125 503 504 502 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 141 nodes 6 28 27 143 397 505 503 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 142 nodes 6 27 144 143 506 507 505 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 143 nodes 6 27 26 144 379 508 506 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 144 nodes 6 26 145 144 509 510 508 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 145 nodes 6 26 25 145 361 511 509 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 146 nodes 6 25 146 145 512 513 511 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 147 nodes 6 25 24 146 343 514 512 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 148 nodes 6 24 147 146 515 516 514 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 149 nodes 6 24 2 43 325 517 518 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 150 nodes 6 43 147 24 519 515 518 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 151 nodes 6 125 143 126 504 520 499 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 152 nodes 6 143 148 126 521 522 520 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 153 nodes 6 143 144 148 507 523 521 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 154 nodes 6 144 149 148 524 525 523 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 155 nodes 6 144 145 149 510 526 524 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 156 nodes 6 145 150 149 527 528 526 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 157 nodes 6 145 146 150 513 529 527 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 158 nodes 6 146 151 150 530 531 529 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 159 nodes 6 146 147 151 516 532 530 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 160 nodes 6 147 152 151 533 534 532 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 161 nodes 6 147 43 44 519 535 536 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 162 nodes 6 44 152 147 537 533 536 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 163 nodes 6 126 148 127 522 538 496 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 164 nodes 6 148 153 127 539 540 538 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 165 nodes 6 148 149 153 525 541 539 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 166 nodes 6 149 154 153 542 543 541 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 167 nodes 6 149 150 154 528 544 542 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 168 nodes 6 150 155 154 545 546 544 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 169 nodes 6 150 151 155 531 547 545 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 170 nodes 6 151 156 155 548 549 547 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 171 nodes 6 151 152 156 534 550 548 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 172 nodes 6 152 157 156 551 552 550 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 173 nodes 6 152 44 157 537 553 551 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 174 nodes 6 44 45 157 554 555 553 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 175 nodes 6 127 153 128 540 556 493 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 176 nodes 6 153 158 128 557 558 556 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 177 nodes 6 153 154 158 543 559 557 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 178 nodes 6 154 159 158 560 561 559 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 179 nodes 6 154 155 159 546 562 560 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 180 nodes 6 155 160 159 563 564 562 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 181 nodes 6 155 156 160 549 565 563 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 182 nodes 6 156 161 160 566 567 565 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 183 nodes 6 156 157 161 552 568 566 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 184 nodes 6 157 162 161 569 570 568 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 185 nodes 6 157 45 162 555 571 569 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 186 nodes 6 45 46 162 572 573 571 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 187 nodes 6 128 158 129 558 574 490 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 188 nodes 6 158 163 129 575 576 574 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 189 nodes 6 158 159 163 561 577 575 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 190 nodes 6 159 164 163 578 579 577 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 191 nodes 6 159 160 164 564 580 578 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 192 nodes 6 160 165 164 581 582 580 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 193 nodes 6 160 161 165 567 583 581 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 194 nodes 6 161 166 165 584 585 583 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 195 nodes 6 161 162 166 570 586 584 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 196 nodes 6 162 167 166 587 588 586 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 197 nodes 6 162 46 167 573 589 587 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 198 nodes 6 46 47 167 590 591 589 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 199 nodes 6 129 163 130 576 592 487 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 200 nodes 6 163 168 130 593 594 592 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 201 nodes 6 163 164 168 579 595 593 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 202 nodes 6 164 169 168 596 597 595 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 203 nodes 6 164 165 169 582 598 596 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 204 nodes 6 165 170 169 599 600 598 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 205 nodes 6 165 166 170 585 601 599 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 206 nodes 6 166 171 170 602 603 601 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 207 nodes 6 166 167 171 588 604 602 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 208 nodes 6 167 172 171 605 606 604 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 209 nodes 6 167 47 172 591 607 605 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 210 nodes 6 47 48 172 608 609 607 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 211 nodes 6 130 168 124 594 610 484 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 212 nodes 6 168 136 124 611 612 610 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 213 nodes 6 168 169 136 597 613 611 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 214 nodes 6 169 135 136 614 615 613 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 215 nodes 6 169 170 135 600 616 614 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 216 nodes 6 170 134 135 617 618 616 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 217 nodes 6 170 171 134 603 619 617 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 218 nodes 6 171 133 134 620 621 619 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 219 nodes 6 171 172 133 606 622 620 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 220 nodes 6 172 132 133 623 624 622 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 221 nodes 6 172 48 132 609 625 623 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 222 nodes 6 48 49 132 626 627 625 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 223 nodes 6 49 50 173 628 629 630 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 224 nodes 6 173 132 49 631 627 630 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 225 nodes 6 50 4 31 632 633 634 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 226 nodes 6 31 173 50 635 629 634 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 227 nodes 6 132 173 174 631 636 637 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 228 nodes 6 174 133 132 638 624 637 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 229 nodes 6 173 31 32 635 639 640 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 230 nodes 6 32 174 173 641 636 640 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 231 nodes 6 133 174 175 638 642 643 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 232 nodes 6 175 134 133 644 621 643 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 233 nodes 6 174 32 33 641 645 646 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 234 nodes 6 33 175 174 647 642 646 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 235 nodes 6 134 175 176 644 648 649 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 236 nodes 6 176 135 134 650 618 649 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 237 nodes 6 175 33 34 647 651 652 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 238 nodes 6 34 176 175 653 648 652 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 239 nodes 6 135 176 177 650 654 655 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 240 nodes 6 177 136 135 656 615 655 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 241 nodes 6 176 34 35 653 657 658 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 242 nodes 6 35 177 176 659 654 658 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 243 nodes 6 136 177 124 656 660 612 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 244 nodes 6 177 131 124 661 482 660 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 245 nodes 6 177 35 36 659 662 663 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 246 nodes 6 36 131 177 457 661 663 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 247 nodes 6 51 52 189 664 665 666 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 248 nodes 6 52 190 189 667 668 665 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 249 nodes 6 52 53 190 669 670 667 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 250 nodes 6 53 191 190 671 672 670 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 251 nodes 6 53 54 191 673 674 671 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 252 nodes 6 54 192 191 675 676 674 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 253 nodes 6 54 55 192 677 678 675 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 254 nodes 6 55 193 192 679 680 678 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 255 nodes 6 55 56 193 681 682 679 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 256 nodes 6 56 194 193 683 684 682 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 257 nodes 6 56 57 194 685 686 683 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 258 nodes 6 57 195 194 687 688 686 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 259 nodes 6 57 2 195 689 690 687 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 260 nodes 6 2 23 195 323 691 690 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 261 nodes 6 189 190 188 668 692 693 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 262 nodes 6 190 196 188 694 695 692 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 263 nodes 6 190 191 196 672 696 694 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 264 nodes 6 191 197 196 697 698 696 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 265 nodes 6 191 192 197 676 699 697 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 266 nodes 6 192 198 197 700 701 699 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 267 nodes 6 192 193 198 680 702 700 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 268 nodes 6 193 199 198 703 704 702 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 269 nodes 6 193 194 199 684 705 703 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 270 nodes 6 194 200 199 706 707 705 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 271 nodes 6 194 195 200 688 708 706 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 272 nodes 6 195 201 200 709 710 708 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 273 nodes 6 195 23 201 691 711 709 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 274 nodes 6 23 22 201 319 712 711 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 275 nodes 6 188 196 187 695 713 714 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 276 nodes 6 196 202 187 715 716 713 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 277 nodes 6 196 197 202 698 717 715 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 278 nodes 6 197 203 202 718 719 717 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 279 nodes 6 197 198 203 701 720 718 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 280 nodes 6 198 204 203 721 722 720 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 281 nodes 6 198 199 204 704 723 721 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 282 nodes 6 199 205 204 724 725 723 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 283 nodes 6 199 200 205 707 726 724 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 284 nodes 6 200 206 205 727 728 726 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 285 nodes 6 200 201 206 710 729 727 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 286 nodes 6 201 207 206 730 731 729 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 287 nodes 6 201 22 207 712 732 730 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 288 nodes 6 22 21 207 315 733 732 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 289 nodes 6 187 202 186 716 734 735 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 290 nodes 6 202 208 186 736 737 734 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 291 nodes 6 202 203 208 719 738 736 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 292 nodes 6 203 209 208 739 740 738 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 293 nodes 6 203 204 209 722 741 739 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 294 nodes 6 204 210 209 742 743 741 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 295 nodes 6 204 205 210 725 744 742 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 296 nodes 6 205 211 210 745 746 744 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 297 nodes 6 205 206 211 728 747 745 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 298 nodes 6 206 212 211 748 749 747 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 299 nodes 6 206 207 212 731 750 748 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 300 nodes 6 207 213 212 751 752 750 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 301 nodes 6 207 21 213 733 753 751 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 302 nodes 6 21 20 213 311 754 753 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 303 nodes 6 186 208 185 737 755 756 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 304 nodes 6 208 214 185 757 758 755 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 305 nodes 6 208 209 214 740 759 757 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 306 nodes 6 209 215 214 760 761 759 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 307 nodes 6 209 210 215 743 762 760 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 308 nodes 6 210 216 215 763 764 762 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 309 nodes 6 210 211 216 746 765 763 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 310 nodes 6 211 217 216 766 767 765 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 311 nodes 6 211 212 217 749 768 766 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 312 nodes 6 212 218 217 769 770 768 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 313 nodes 6 212 213 218 752 771 769 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 314 nodes 6 213 219 218 772 773 771 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 315 nodes 6 213 20 219 754 774 772 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 316 nodes 6 20 19 219 307 775 774 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 317 nodes 6 185 214 178 758 776 777 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 318 nodes 6 214 184 178 778 779 776 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 319 nodes 6 214 215 184 761 780 778 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 320 nodes 6 215 183 184 781 782 780 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 321 nodes 6 215 216 183 764 783 781 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 322 nodes 6 216 182 183 784 785 783 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 323 nodes 6 216 217 182 767 786 784 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 324 nodes 6 217 181 182 787 788 786 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 325 nodes 6 217 218 181 770 789 787 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 326 nodes 6 218 180 181 790 791 789 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 327 nodes 6 218 219 180 773 792 790 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 328 nodes 6 219 179 180 793 794 792 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 329 nodes 6 219 19 179 775 795 793 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 330 nodes 6 19 18 179 303 796 795 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 331 nodes 6 18 1 58 300 797 798 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 332 nodes 6 58 179 18 799 796 798 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 333 nodes 6 179 58 59 799 800 801 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 334 nodes 6 59 180 179 802 794 801 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 335 nodes 6 180 59 60 802 803 804 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 336 nodes 6 60 181 180 805 791 804 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 337 nodes 6 181 60 61 805 806 807 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 338 nodes 6 61 182 181 808 788 807 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 339 nodes 6 182 61 62 808 809 810 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 340 nodes 6 62 183 182 811 785 810 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 341 nodes 6 183 62 63 811 812 813 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 342 nodes 6 63 184 183 814 782 813 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 343 nodes 6 184 63 64 814 815 816 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 344 nodes 6 64 178 184 817 779 816 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 345 nodes 6 64 65 178 818 819 817 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 346 nodes 6 65 185 178 820 777 819 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 347 nodes 6 65 66 186 821 822 823 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 348 nodes 6 186 185 65 756 820 823 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 349 nodes 6 66 67 187 824 825 826 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 350 nodes 6 187 186 66 735 822 826 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 351 nodes 6 67 68 188 827 828 829 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 352 nodes 6 188 187 67 714 825 829 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 353 nodes 6 68 69 189 830 831 832 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 354 nodes 6 189 188 68 693 828 832 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 355 nodes 6 69 5 51 833 834 835 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 356 nodes 6 51 189 69 666 831 835 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 357 nodes 6 49 48 231 626 836 837 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 358 nodes 6 48 233 231 838 839 836 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 359 nodes 6 48 47 233 608 840 838 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 360 nodes 6 47 234 233 841 842 840 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 361 nodes 6 47 46 234 590 843 841 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 362 nodes 6 46 235 234 844 845 843 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 363 nodes 6 46 45 235 572 846 844 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 364 nodes 6 45 236 235 847 848 846 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 365 nodes 6 45 44 236 554 849 847 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 366 nodes 6 44 237 236 850 851 849 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 367 nodes 6 44 43 238 535 852 853 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 368 nodes 6 238 237 44 854 850 853 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 369 nodes 6 43 2 57 517 689 855 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 370 nodes 6 57 238 43 856 852 855 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 371 nodes 6 231 233 230 839 857 858 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 372 nodes 6 233 239 230 859 860 857 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 373 nodes 6 233 234 239 842 861 859 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 374 nodes 6 234 240 239 862 863 861 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 375 nodes 6 234 235 240 845 864 862 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 376 nodes 6 235 241 240 865 866 864 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 377 nodes 6 235 236 241 848 867 865 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 378 nodes 6 236 242 241 868 869 867 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 379 nodes 6 236 237 242 851 870 868 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 380 nodes 6 237 243 242 871 872 870 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 381 nodes 6 237 238 243 854 873 871 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 382 nodes 6 238 244 243 874 875 873 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 383 nodes 6 238 57 244 856 876 874 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 384 nodes 6 57 56 244 685 877 876 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 385 nodes 6 230 239 229 860 878 879 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 386 nodes 6 239 245 229 880 881 878 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 387 nodes 6 239 240 245 863 882 880 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 388 nodes 6 240 246 245 883 884 882 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 389 nodes 6 240 241 246 866 885 883 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 390 nodes 6 241 247 246 886 887 885 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 391 nodes 6 241 242 247 869 888 886 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 392 nodes 6 242 248 247 889 890 888 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 393 nodes 6 242 243 248 872 891 889 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 394 nodes 6 243 249 248 892 893 891 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 395 nodes 6 243 244 249 875 894 892 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 396 nodes 6 244 250 249 895 896 894 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 397 nodes 6 244 56 250 877 897 895 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 398 nodes 6 56 55 250 681 898 897 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 399 nodes 6 229 245 228 881 899 900 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 400 nodes 6 245 251 228 901 902 899 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 401 nodes 6 245 246 251 884 903 901 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 402 nodes 6 246 252 251 904 905 903 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 403 nodes 6 246 247 252 887 906 904 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 404 nodes 6 247 253 252 907 908 906 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 405 nodes 6 247 248 253 890 909 907 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 406 nodes 6 248 254 253 910 911 909 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 407 nodes 6 248 249 254 893 912 910 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 408 nodes 6 249 255 254 913 914 912 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 409 nodes 6 249 250 255 896 915 913 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 410 nodes 6 250 256 255 916 917 915 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 411 nodes 6 250 55 256 898 918 916 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 412 nodes 6 55 54 256 677 919 918 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 413 nodes 6 228 251 227 902 920 921 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 414 nodes 6 251 257 227 922 923 920 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 415 nodes 6 251 252 257 905 924 922 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 416 nodes 6 252 258 257 925 926 924 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 417 nodes 6 252 253 258 908 927 925 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 418 nodes 6 253 259 258 928 929 927 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 419 nodes 6 253 254 259 911 930 928 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 420 nodes 6 254 260 259 931 932 930 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 421 nodes 6 254 255 260 914 933 931 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 422 nodes 6 255 261 260 934 935 933 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 423 nodes 6 255 256 261 917 936 934 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 424 nodes 6 256 262 261 937 938 936 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 425 nodes 6 256 54 262 919 939 937 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 426 nodes 6 54 53 262 673 940 939 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 427 nodes 6 227 257 220 923 941 942 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 428 nodes 6 257 226 220 943 944 941 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 429 nodes 6 257 258 226 926 945 943 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 430 nodes 6 258 225 226 946 947 945 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 431 nodes 6 258 259 225 929 948 946 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 432 nodes 6 259 224 225 949 950 948 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 433 nodes 6 259 260 224 932 951 949 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 434 nodes 6 260 223 224 952 953 951 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 435 nodes 6 260 261 223 935 954 952 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 436 nodes 6 261 222 223 955 956 954 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 437 nodes 6 261 262 222 938 957 955 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 438 nodes 6 262 221 222 958 959 957 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 439 nodes 6 262 53 221 940 960 958 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 440 nodes 6 53 52 221 669 961 960 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 441 nodes 6 52 51 263 664 962 963 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 442 nodes 6 263 221 52 964 961 963 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 443 nodes 6 51 5 70 834 965 966 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 444 nodes 6 70 263 51 967 962 966 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 445 nodes 6 221 263 264 964 968 969 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 446 nodes 6 264 222 221 970 959 969 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 447 nodes 6 263 70 71 967 971 972 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 448 nodes 6 71 264 263 973 968 972 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 449 nodes 6 222 264 265 970 974 975 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 450 nodes 6 265 223 222 976 956 975 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 451 nodes 6 264 71 72 973 977 978 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 452 nodes 6 72 265 264 979 974 978 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 453 nodes 6 223 265 266 976 980 981 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 454 nodes 6 266 224 223 982 953 981 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 455 nodes 6 265 72 73 979 983 984 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 456 nodes 6 73 266 265 985 980 984 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 457 nodes 6 224 266 267 982 986 987 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 458 nodes 6 267 225 224 988 950 987 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 459 nodes 6 266 73 74 985 989 990 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 460 nodes 6 74 267 266 991 986 990 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 461 nodes 6 225 267 268 988 992 993 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 462 nodes 6 268 226 225 994 947 993 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 463 nodes 6 267 74 75 991 995 996 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 464 nodes 6 75 268 267 997 992 996 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 465 nodes 6 226 268 220 994 998 944 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 466 nodes 6 268 232 220 999 1000 998 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 467 nodes 6 268 75 76 997 1001 1002 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 468 nodes 6 76 232 268 1003 999 1002 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 469 nodes 6 76 77 269 1004 1005 1006 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 470 nodes 6 269 232 76 1007 1003 1006 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 471 nodes 6 77 78 270 1008 1009 1010 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 472 nodes 6 270 269 77 1011 1005 1010 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 473 nodes 6 78 79 271 1012 1013 1014 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 474 nodes 6 271 270 78 1015 1009 1014 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 475 nodes 6 79 80 272 1016 1017 1018 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 476 nodes 6 272 271 79 1019 1013 1018 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 477 nodes 6 80 81 273 1020 1021 1022 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 478 nodes 6 273 272 80 1023 1017 1022 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 479 nodes 6 81 4 50 1024 632 1025 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 480 nodes 6 50 273 81 1026 1021 1025 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 481 nodes 6 232 269 220 1007 1027 1000 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 482 nodes 6 269 227 220 1028 942 1027 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 483 nodes 6 269 270 228 1011 1029 1030 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 484 nodes 6 228 227 269 921 1028 1030 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 485 nodes 6 270 271 229 1015 1031 1032 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 486 nodes 6 229 228 270 900 1029 1032 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 487 nodes 6 271 272 230 1019 1033 1034 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 488 nodes 6 230 229 271 879 1031 1034 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 489 nodes 6 272 273 231 1023 1035 1036 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 490 nodes 6 231 230 272 858 1033 1036 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 491 nodes 6 273 50 49 1026 628 1037 mat 1 crossSect 1 boundaryLoads 2 2 0
-tr2shell7 492 nodes 6 49 231 273 837 1035 1037 mat 1 crossSect 1 boundaryLoads 2 2 0
+tr2shell7 1 nodes 6 11 12 88 274 275 276 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 2 nodes 6 88 82 11 277 278 276 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 3 nodes 6 12 13 87 279 280 281 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 4 nodes 6 87 88 12 282 275 281 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 5 nodes 6 13 14 86 283 284 285 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 6 nodes 6 86 87 13 286 280 285 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 7 nodes 6 14 15 85 287 288 289 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 8 nodes 6 85 86 14 290 284 289 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 9 nodes 6 15 16 84 291 292 293 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 10 nodes 6 84 85 15 294 288 293 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 11 nodes 6 16 17 83 295 296 297 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 12 nodes 6 83 84 16 298 292 297 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 13 nodes 6 17 1 18 299 300 301 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 14 nodes 6 18 83 17 302 296 301 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 15 nodes 6 18 19 83 303 304 302 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 16 nodes 6 19 94 83 305 306 304 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 17 nodes 6 19 20 94 307 308 305 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 18 nodes 6 20 95 94 309 310 308 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 19 nodes 6 20 21 95 311 312 309 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 20 nodes 6 21 96 95 313 314 312 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 21 nodes 6 21 22 96 315 316 313 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 22 nodes 6 22 97 96 317 318 316 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 23 nodes 6 22 23 97 319 320 317 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 24 nodes 6 23 98 97 321 322 320 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 25 nodes 6 23 2 98 323 324 321 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 26 nodes 6 2 24 98 325 326 324 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 27 nodes 6 83 94 84 306 327 298 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 28 nodes 6 94 99 84 328 329 327 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 29 nodes 6 94 95 99 310 330 328 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 30 nodes 6 95 100 99 331 332 330 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 31 nodes 6 95 96 100 314 333 331 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 32 nodes 6 96 101 100 334 335 333 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 33 nodes 6 96 97 101 318 336 334 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 34 nodes 6 97 102 101 337 338 336 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 35 nodes 6 97 98 102 322 339 337 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 36 nodes 6 98 103 102 340 341 339 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 37 nodes 6 98 24 103 326 342 340 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 38 nodes 6 24 25 103 343 344 342 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 39 nodes 6 84 99 85 329 345 294 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 40 nodes 6 99 104 85 346 347 345 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 41 nodes 6 99 100 104 332 348 346 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 42 nodes 6 100 105 104 349 350 348 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 43 nodes 6 100 101 105 335 351 349 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 44 nodes 6 101 106 105 352 353 351 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 45 nodes 6 101 102 106 338 354 352 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 46 nodes 6 102 107 106 355 356 354 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 47 nodes 6 102 103 107 341 357 355 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 48 nodes 6 103 108 107 358 359 357 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 49 nodes 6 103 25 108 344 360 358 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 50 nodes 6 25 26 108 361 362 360 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 51 nodes 6 85 104 86 347 363 290 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 52 nodes 6 104 109 86 364 365 363 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 53 nodes 6 104 105 109 350 366 364 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 54 nodes 6 105 110 109 367 368 366 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 55 nodes 6 105 106 110 353 369 367 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 56 nodes 6 106 111 110 370 371 369 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 57 nodes 6 106 107 111 356 372 370 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 58 nodes 6 107 112 111 373 374 372 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 59 nodes 6 107 108 112 359 375 373 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 60 nodes 6 108 113 112 376 377 375 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 61 nodes 6 108 26 113 362 378 376 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 62 nodes 6 26 27 113 379 380 378 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 63 nodes 6 86 109 87 365 381 286 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 64 nodes 6 109 114 87 382 383 381 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 65 nodes 6 109 110 114 368 384 382 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 66 nodes 6 110 115 114 385 386 384 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 67 nodes 6 110 111 115 371 387 385 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 68 nodes 6 111 116 115 388 389 387 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 69 nodes 6 111 112 116 374 390 388 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 70 nodes 6 112 117 116 391 392 390 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 71 nodes 6 112 113 117 377 393 391 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 72 nodes 6 113 118 117 394 395 393 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 73 nodes 6 113 27 118 380 396 394 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 74 nodes 6 27 28 118 397 398 396 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 75 nodes 6 87 114 88 383 399 282 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 76 nodes 6 114 119 88 400 401 399 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 77 nodes 6 114 115 119 386 402 400 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 78 nodes 6 115 120 119 403 404 402 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 79 nodes 6 115 116 120 389 405 403 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 80 nodes 6 116 121 120 406 407 405 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 81 nodes 6 116 117 121 392 408 406 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 82 nodes 6 117 122 121 409 410 408 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 83 nodes 6 117 118 122 395 411 409 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 84 nodes 6 118 123 122 412 413 411 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 85 nodes 6 118 28 123 398 414 412 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 86 nodes 6 28 29 123 415 416 414 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 87 nodes 6 88 119 82 401 417 277 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 88 nodes 6 119 93 82 418 419 417 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 89 nodes 6 119 120 93 404 420 418 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 90 nodes 6 120 92 93 421 422 420 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 91 nodes 6 120 121 92 407 423 421 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 92 nodes 6 121 91 92 424 425 423 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 93 nodes 6 121 122 91 410 426 424 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 94 nodes 6 122 90 91 427 428 426 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 95 nodes 6 122 123 90 413 429 427 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 96 nodes 6 123 89 90 430 431 429 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 97 nodes 6 123 29 89 416 432 430 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 98 nodes 6 29 30 89 433 434 432 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 99 nodes 6 30 3 6 435 436 437 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 100 nodes 6 6 89 30 438 434 437 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 101 nodes 6 89 6 7 438 439 440 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 102 nodes 6 7 90 89 441 431 440 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 103 nodes 6 90 7 8 441 442 443 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 104 nodes 6 8 91 90 444 428 443 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 105 nodes 6 91 8 9 444 445 446 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 106 nodes 6 9 92 91 447 425 446 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 107 nodes 6 92 9 10 447 448 449 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 108 nodes 6 10 93 92 450 422 449 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 109 nodes 6 93 10 82 450 451 419 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 110 nodes 6 10 11 82 452 278 451 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 111 nodes 6 36 37 137 453 454 455 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 112 nodes 6 137 131 36 456 457 455 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 113 nodes 6 37 38 138 458 459 460 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 114 nodes 6 138 137 37 461 454 460 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 115 nodes 6 38 39 139 462 463 464 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 116 nodes 6 139 138 38 465 459 464 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 117 nodes 6 39 40 140 466 467 468 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 118 nodes 6 140 139 39 469 463 468 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 119 nodes 6 40 41 141 470 471 472 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 120 nodes 6 141 140 40 473 467 472 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 121 nodes 6 41 42 142 474 475 476 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 122 nodes 6 142 141 41 477 471 476 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 123 nodes 6 42 3 30 478 435 479 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 124 nodes 6 30 142 42 480 475 479 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 125 nodes 6 131 137 124 456 481 482 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 126 nodes 6 137 130 124 483 484 481 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 127 nodes 6 137 138 129 461 485 486 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 128 nodes 6 129 130 137 487 483 486 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 129 nodes 6 138 139 128 465 488 489 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 130 nodes 6 128 129 138 490 485 489 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 131 nodes 6 139 140 127 469 491 492 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 132 nodes 6 127 128 139 493 488 492 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 133 nodes 6 140 141 126 473 494 495 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 134 nodes 6 126 127 140 496 491 495 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 135 nodes 6 141 142 125 477 497 498 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 136 nodes 6 125 126 141 499 494 498 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 137 nodes 6 142 30 29 480 433 500 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 138 nodes 6 29 125 142 501 497 500 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 139 nodes 6 29 28 125 415 502 501 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 140 nodes 6 28 143 125 503 504 502 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 141 nodes 6 28 27 143 397 505 503 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 142 nodes 6 27 144 143 506 507 505 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 143 nodes 6 27 26 144 379 508 506 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 144 nodes 6 26 145 144 509 510 508 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 145 nodes 6 26 25 145 361 511 509 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 146 nodes 6 25 146 145 512 513 511 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 147 nodes 6 25 24 146 343 514 512 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 148 nodes 6 24 147 146 515 516 514 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 149 nodes 6 24 2 43 325 517 518 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 150 nodes 6 43 147 24 519 515 518 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 151 nodes 6 125 143 126 504 520 499 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 152 nodes 6 143 148 126 521 522 520 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 153 nodes 6 143 144 148 507 523 521 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 154 nodes 6 144 149 148 524 525 523 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 155 nodes 6 144 145 149 510 526 524 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 156 nodes 6 145 150 149 527 528 526 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 157 nodes 6 145 146 150 513 529 527 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 158 nodes 6 146 151 150 530 531 529 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 159 nodes 6 146 147 151 516 532 530 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 160 nodes 6 147 152 151 533 534 532 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 161 nodes 6 147 43 44 519 535 536 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 162 nodes 6 44 152 147 537 533 536 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 163 nodes 6 126 148 127 522 538 496 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 164 nodes 6 148 153 127 539 540 538 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 165 nodes 6 148 149 153 525 541 539 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 166 nodes 6 149 154 153 542 543 541 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 167 nodes 6 149 150 154 528 544 542 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 168 nodes 6 150 155 154 545 546 544 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 169 nodes 6 150 151 155 531 547 545 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 170 nodes 6 151 156 155 548 549 547 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 171 nodes 6 151 152 156 534 550 548 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 172 nodes 6 152 157 156 551 552 550 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 173 nodes 6 152 44 157 537 553 551 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 174 nodes 6 44 45 157 554 555 553 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 175 nodes 6 127 153 128 540 556 493 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 176 nodes 6 153 158 128 557 558 556 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 177 nodes 6 153 154 158 543 559 557 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 178 nodes 6 154 159 158 560 561 559 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 179 nodes 6 154 155 159 546 562 560 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 180 nodes 6 155 160 159 563 564 562 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 181 nodes 6 155 156 160 549 565 563 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 182 nodes 6 156 161 160 566 567 565 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 183 nodes 6 156 157 161 552 568 566 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 184 nodes 6 157 162 161 569 570 568 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 185 nodes 6 157 45 162 555 571 569 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 186 nodes 6 45 46 162 572 573 571 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 187 nodes 6 128 158 129 558 574 490 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 188 nodes 6 158 163 129 575 576 574 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 189 nodes 6 158 159 163 561 577 575 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 190 nodes 6 159 164 163 578 579 577 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 191 nodes 6 159 160 164 564 580 578 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 192 nodes 6 160 165 164 581 582 580 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 193 nodes 6 160 161 165 567 583 581 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 194 nodes 6 161 166 165 584 585 583 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 195 nodes 6 161 162 166 570 586 584 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 196 nodes 6 162 167 166 587 588 586 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 197 nodes 6 162 46 167 573 589 587 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 198 nodes 6 46 47 167 590 591 589 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 199 nodes 6 129 163 130 576 592 487 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 200 nodes 6 163 168 130 593 594 592 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 201 nodes 6 163 164 168 579 595 593 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 202 nodes 6 164 169 168 596 597 595 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 203 nodes 6 164 165 169 582 598 596 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 204 nodes 6 165 170 169 599 600 598 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 205 nodes 6 165 166 170 585 601 599 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 206 nodes 6 166 171 170 602 603 601 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 207 nodes 6 166 167 171 588 604 602 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 208 nodes 6 167 172 171 605 606 604 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 209 nodes 6 167 47 172 591 607 605 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 210 nodes 6 47 48 172 608 609 607 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 211 nodes 6 130 168 124 594 610 484 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 212 nodes 6 168 136 124 611 612 610 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 213 nodes 6 168 169 136 597 613 611 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 214 nodes 6 169 135 136 614 615 613 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 215 nodes 6 169 170 135 600 616 614 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 216 nodes 6 170 134 135 617 618 616 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 217 nodes 6 170 171 134 603 619 617 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 218 nodes 6 171 133 134 620 621 619 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 219 nodes 6 171 172 133 606 622 620 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 220 nodes 6 172 132 133 623 624 622 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 221 nodes 6 172 48 132 609 625 623 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 222 nodes 6 48 49 132 626 627 625 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 223 nodes 6 49 50 173 628 629 630 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 224 nodes 6 173 132 49 631 627 630 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 225 nodes 6 50 4 31 632 633 634 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 226 nodes 6 31 173 50 635 629 634 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 227 nodes 6 132 173 174 631 636 637 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 228 nodes 6 174 133 132 638 624 637 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 229 nodes 6 173 31 32 635 639 640 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 230 nodes 6 32 174 173 641 636 640 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 231 nodes 6 133 174 175 638 642 643 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 232 nodes 6 175 134 133 644 621 643 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 233 nodes 6 174 32 33 641 645 646 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 234 nodes 6 33 175 174 647 642 646 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 235 nodes 6 134 175 176 644 648 649 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 236 nodes 6 176 135 134 650 618 649 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 237 nodes 6 175 33 34 647 651 652 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 238 nodes 6 34 176 175 653 648 652 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 239 nodes 6 135 176 177 650 654 655 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 240 nodes 6 177 136 135 656 615 655 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 241 nodes 6 176 34 35 653 657 658 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 242 nodes 6 35 177 176 659 654 658 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 243 nodes 6 136 177 124 656 660 612 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 244 nodes 6 177 131 124 661 482 660 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 245 nodes 6 177 35 36 659 662 663 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 246 nodes 6 36 131 177 457 661 663 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 247 nodes 6 51 52 189 664 665 666 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 248 nodes 6 52 190 189 667 668 665 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 249 nodes 6 52 53 190 669 670 667 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 250 nodes 6 53 191 190 671 672 670 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 251 nodes 6 53 54 191 673 674 671 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 252 nodes 6 54 192 191 675 676 674 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 253 nodes 6 54 55 192 677 678 675 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 254 nodes 6 55 193 192 679 680 678 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 255 nodes 6 55 56 193 681 682 679 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 256 nodes 6 56 194 193 683 684 682 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 257 nodes 6 56 57 194 685 686 683 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 258 nodes 6 57 195 194 687 688 686 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 259 nodes 6 57 2 195 689 690 687 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 260 nodes 6 2 23 195 323 691 690 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 261 nodes 6 189 190 188 668 692 693 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 262 nodes 6 190 196 188 694 695 692 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 263 nodes 6 190 191 196 672 696 694 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 264 nodes 6 191 197 196 697 698 696 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 265 nodes 6 191 192 197 676 699 697 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 266 nodes 6 192 198 197 700 701 699 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 267 nodes 6 192 193 198 680 702 700 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 268 nodes 6 193 199 198 703 704 702 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 269 nodes 6 193 194 199 684 705 703 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 270 nodes 6 194 200 199 706 707 705 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 271 nodes 6 194 195 200 688 708 706 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 272 nodes 6 195 201 200 709 710 708 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 273 nodes 6 195 23 201 691 711 709 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 274 nodes 6 23 22 201 319 712 711 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 275 nodes 6 188 196 187 695 713 714 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 276 nodes 6 196 202 187 715 716 713 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 277 nodes 6 196 197 202 698 717 715 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 278 nodes 6 197 203 202 718 719 717 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 279 nodes 6 197 198 203 701 720 718 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 280 nodes 6 198 204 203 721 722 720 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 281 nodes 6 198 199 204 704 723 721 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 282 nodes 6 199 205 204 724 725 723 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 283 nodes 6 199 200 205 707 726 724 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 284 nodes 6 200 206 205 727 728 726 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 285 nodes 6 200 201 206 710 729 727 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 286 nodes 6 201 207 206 730 731 729 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 287 nodes 6 201 22 207 712 732 730 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 288 nodes 6 22 21 207 315 733 732 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 289 nodes 6 187 202 186 716 734 735 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 290 nodes 6 202 208 186 736 737 734 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 291 nodes 6 202 203 208 719 738 736 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 292 nodes 6 203 209 208 739 740 738 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 293 nodes 6 203 204 209 722 741 739 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 294 nodes 6 204 210 209 742 743 741 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 295 nodes 6 204 205 210 725 744 742 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 296 nodes 6 205 211 210 745 746 744 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 297 nodes 6 205 206 211 728 747 745 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 298 nodes 6 206 212 211 748 749 747 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 299 nodes 6 206 207 212 731 750 748 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 300 nodes 6 207 213 212 751 752 750 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 301 nodes 6 207 21 213 733 753 751 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 302 nodes 6 21 20 213 311 754 753 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 303 nodes 6 186 208 185 737 755 756 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 304 nodes 6 208 214 185 757 758 755 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 305 nodes 6 208 209 214 740 759 757 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 306 nodes 6 209 215 214 760 761 759 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 307 nodes 6 209 210 215 743 762 760 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 308 nodes 6 210 216 215 763 764 762 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 309 nodes 6 210 211 216 746 765 763 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 310 nodes 6 211 217 216 766 767 765 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 311 nodes 6 211 212 217 749 768 766 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 312 nodes 6 212 218 217 769 770 768 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 313 nodes 6 212 213 218 752 771 769 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 314 nodes 6 213 219 218 772 773 771 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 315 nodes 6 213 20 219 754 774 772 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 316 nodes 6 20 19 219 307 775 774 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 317 nodes 6 185 214 178 758 776 777 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 318 nodes 6 214 184 178 778 779 776 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 319 nodes 6 214 215 184 761 780 778 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 320 nodes 6 215 183 184 781 782 780 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 321 nodes 6 215 216 183 764 783 781 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 322 nodes 6 216 182 183 784 785 783 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 323 nodes 6 216 217 182 767 786 784 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 324 nodes 6 217 181 182 787 788 786 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 325 nodes 6 217 218 181 770 789 787 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 326 nodes 6 218 180 181 790 791 789 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 327 nodes 6 218 219 180 773 792 790 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 328 nodes 6 219 179 180 793 794 792 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 329 nodes 6 219 19 179 775 795 793 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 330 nodes 6 19 18 179 303 796 795 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 331 nodes 6 18 1 58 300 797 798 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 332 nodes 6 58 179 18 799 796 798 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 333 nodes 6 179 58 59 799 800 801 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 334 nodes 6 59 180 179 802 794 801 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 335 nodes 6 180 59 60 802 803 804 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 336 nodes 6 60 181 180 805 791 804 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 337 nodes 6 181 60 61 805 806 807 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 338 nodes 6 61 182 181 808 788 807 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 339 nodes 6 182 61 62 808 809 810 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 340 nodes 6 62 183 182 811 785 810 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 341 nodes 6 183 62 63 811 812 813 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 342 nodes 6 63 184 183 814 782 813 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 343 nodes 6 184 63 64 814 815 816 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 344 nodes 6 64 178 184 817 779 816 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 345 nodes 6 64 65 178 818 819 817 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 346 nodes 6 65 185 178 820 777 819 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 347 nodes 6 65 66 186 821 822 823 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 348 nodes 6 186 185 65 756 820 823 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 349 nodes 6 66 67 187 824 825 826 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 350 nodes 6 187 186 66 735 822 826 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 351 nodes 6 67 68 188 827 828 829 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 352 nodes 6 188 187 67 714 825 829 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 353 nodes 6 68 69 189 830 831 832 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 354 nodes 6 189 188 68 693 828 832 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 355 nodes 6 69 5 51 833 834 835 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 356 nodes 6 51 189 69 666 831 835 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 357 nodes 6 49 48 231 626 836 837 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 358 nodes 6 48 233 231 838 839 836 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 359 nodes 6 48 47 233 608 840 838 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 360 nodes 6 47 234 233 841 842 840 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 361 nodes 6 47 46 234 590 843 841 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 362 nodes 6 46 235 234 844 845 843 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 363 nodes 6 46 45 235 572 846 844 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 364 nodes 6 45 236 235 847 848 846 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 365 nodes 6 45 44 236 554 849 847 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 366 nodes 6 44 237 236 850 851 849 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 367 nodes 6 44 43 238 535 852 853 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 368 nodes 6 238 237 44 854 850 853 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 369 nodes 6 43 2 57 517 689 855 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 370 nodes 6 57 238 43 856 852 855 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 371 nodes 6 231 233 230 839 857 858 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 372 nodes 6 233 239 230 859 860 857 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 373 nodes 6 233 234 239 842 861 859 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 374 nodes 6 234 240 239 862 863 861 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 375 nodes 6 234 235 240 845 864 862 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 376 nodes 6 235 241 240 865 866 864 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 377 nodes 6 235 236 241 848 867 865 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 378 nodes 6 236 242 241 868 869 867 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 379 nodes 6 236 237 242 851 870 868 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 380 nodes 6 237 243 242 871 872 870 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 381 nodes 6 237 238 243 854 873 871 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 382 nodes 6 238 244 243 874 875 873 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 383 nodes 6 238 57 244 856 876 874 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 384 nodes 6 57 56 244 685 877 876 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 385 nodes 6 230 239 229 860 878 879 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 386 nodes 6 239 245 229 880 881 878 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 387 nodes 6 239 240 245 863 882 880 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 388 nodes 6 240 246 245 883 884 882 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 389 nodes 6 240 241 246 866 885 883 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 390 nodes 6 241 247 246 886 887 885 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 391 nodes 6 241 242 247 869 888 886 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 392 nodes 6 242 248 247 889 890 888 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 393 nodes 6 242 243 248 872 891 889 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 394 nodes 6 243 249 248 892 893 891 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 395 nodes 6 243 244 249 875 894 892 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 396 nodes 6 244 250 249 895 896 894 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 397 nodes 6 244 56 250 877 897 895 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 398 nodes 6 56 55 250 681 898 897 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 399 nodes 6 229 245 228 881 899 900 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 400 nodes 6 245 251 228 901 902 899 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 401 nodes 6 245 246 251 884 903 901 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 402 nodes 6 246 252 251 904 905 903 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 403 nodes 6 246 247 252 887 906 904 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 404 nodes 6 247 253 252 907 908 906 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 405 nodes 6 247 248 253 890 909 907 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 406 nodes 6 248 254 253 910 911 909 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 407 nodes 6 248 249 254 893 912 910 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 408 nodes 6 249 255 254 913 914 912 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 409 nodes 6 249 250 255 896 915 913 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 410 nodes 6 250 256 255 916 917 915 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 411 nodes 6 250 55 256 898 918 916 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 412 nodes 6 55 54 256 677 919 918 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 413 nodes 6 228 251 227 902 920 921 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 414 nodes 6 251 257 227 922 923 920 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 415 nodes 6 251 252 257 905 924 922 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 416 nodes 6 252 258 257 925 926 924 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 417 nodes 6 252 253 258 908 927 925 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 418 nodes 6 253 259 258 928 929 927 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 419 nodes 6 253 254 259 911 930 928 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 420 nodes 6 254 260 259 931 932 930 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 421 nodes 6 254 255 260 914 933 931 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 422 nodes 6 255 261 260 934 935 933 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 423 nodes 6 255 256 261 917 936 934 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 424 nodes 6 256 262 261 937 938 936 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 425 nodes 6 256 54 262 919 939 937 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 426 nodes 6 54 53 262 673 940 939 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 427 nodes 6 227 257 220 923 941 942 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 428 nodes 6 257 226 220 943 944 941 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 429 nodes 6 257 258 226 926 945 943 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 430 nodes 6 258 225 226 946 947 945 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 431 nodes 6 258 259 225 929 948 946 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 432 nodes 6 259 224 225 949 950 948 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 433 nodes 6 259 260 224 932 951 949 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 434 nodes 6 260 223 224 952 953 951 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 435 nodes 6 260 261 223 935 954 952 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 436 nodes 6 261 222 223 955 956 954 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 437 nodes 6 261 262 222 938 957 955 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 438 nodes 6 262 221 222 958 959 957 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 439 nodes 6 262 53 221 940 960 958 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 440 nodes 6 53 52 221 669 961 960 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 441 nodes 6 52 51 263 664 962 963 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 442 nodes 6 263 221 52 964 961 963 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 443 nodes 6 51 5 70 834 965 966 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 444 nodes 6 70 263 51 967 962 966 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 445 nodes 6 221 263 264 964 968 969 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 446 nodes 6 264 222 221 970 959 969 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 447 nodes 6 263 70 71 967 971 972 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 448 nodes 6 71 264 263 973 968 972 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 449 nodes 6 222 264 265 970 974 975 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 450 nodes 6 265 223 222 976 956 975 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 451 nodes 6 264 71 72 973 977 978 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 452 nodes 6 72 265 264 979 974 978 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 453 nodes 6 223 265 266 976 980 981 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 454 nodes 6 266 224 223 982 953 981 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 455 nodes 6 265 72 73 979 983 984 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 456 nodes 6 73 266 265 985 980 984 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 457 nodes 6 224 266 267 982 986 987 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 458 nodes 6 267 225 224 988 950 987 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 459 nodes 6 266 73 74 985 989 990 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 460 nodes 6 74 267 266 991 986 990 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 461 nodes 6 225 267 268 988 992 993 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 462 nodes 6 268 226 225 994 947 993 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 463 nodes 6 267 74 75 991 995 996 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 464 nodes 6 75 268 267 997 992 996 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 465 nodes 6 226 268 220 994 998 944 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 466 nodes 6 268 232 220 999 1000 998 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 467 nodes 6 268 75 76 997 1001 1002 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 468 nodes 6 76 232 268 1003 999 1002 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 469 nodes 6 76 77 269 1004 1005 1006 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 470 nodes 6 269 232 76 1007 1003 1006 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 471 nodes 6 77 78 270 1008 1009 1010 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 472 nodes 6 270 269 77 1011 1005 1010 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 473 nodes 6 78 79 271 1012 1013 1014 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 474 nodes 6 271 270 78 1015 1009 1014 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 475 nodes 6 79 80 272 1016 1017 1018 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 476 nodes 6 272 271 79 1019 1013 1018 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 477 nodes 6 80 81 273 1020 1021 1022 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 478 nodes 6 273 272 80 1023 1017 1022 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 479 nodes 6 81 4 50 1024 632 1025 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 480 nodes 6 50 273 81 1026 1021 1025 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 481 nodes 6 232 269 220 1007 1027 1000 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 482 nodes 6 269 227 220 1028 942 1027 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 483 nodes 6 269 270 228 1011 1029 1030 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 484 nodes 6 228 227 269 921 1028 1030 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 485 nodes 6 270 271 229 1015 1031 1032 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 486 nodes 6 229 228 270 900 1029 1032 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 487 nodes 6 271 272 230 1019 1033 1034 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 488 nodes 6 230 229 271 879 1031 1034 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 489 nodes 6 272 273 231 1023 1035 1036 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 490 nodes 6 231 230 272 858 1033 1036 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 491 nodes 6 273 50 49 1026 628 1037 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
+tr2shell7 492 nodes 6 49 231 273 837 1035 1037 mat 1 crossSect 1 boundaryLoads 2 2 0 nlgeo 1
 layeredCS 1 nlayers 1 layermaterials 1 1 thicks 1 0.01 nintegrationpoints 4
 IsoLE 1 d 1. E 10920e3. n 0.0 tAlpha 1.
 BoundaryCondition  1 loadTimeFunction 1 prescribedvalue 0.0 set 1 dofs 6 1 2 3 4 5 6

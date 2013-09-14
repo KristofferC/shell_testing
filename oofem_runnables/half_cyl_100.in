@@ -698,326 +698,326 @@ node 690 coords 3 50.000000000000 0.000000000000 15.000000000000
 node 691 coords 3 49.759235400000 4.900856490000 0.000000000000 
 node 692 coords 3 49.759235400000 4.900856970000 5.000000000000 
 node 693 coords 3 50.000000000000 0.000000000000 5.000000000000 
-tr2shell7 1 nodes 6 1 7 38 188 189 190 mat 1 crossSect 1
-tr2shell7 2 nodes 6 7 62 38 191 192 189 mat 1 crossSect 1
-tr2shell7 3 nodes 6 7 8 62 193 194 191 mat 1 crossSect 1
-tr2shell7 4 nodes 6 8 63 62 195 196 194 mat 1 crossSect 1
-tr2shell7 5 nodes 6 8 9 63 197 198 195 mat 1 crossSect 1
-tr2shell7 6 nodes 6 9 64 63 199 200 198 mat 1 crossSect 1
-tr2shell7 7 nodes 6 9 10 64 201 202 199 mat 1 crossSect 1
-tr2shell7 8 nodes 6 10 65 64 203 204 202 mat 1 crossSect 1
-tr2shell7 9 nodes 6 10 11 65 205 206 203 mat 1 crossSect 1
-tr2shell7 10 nodes 6 11 66 65 207 208 206 mat 1 crossSect 1
-tr2shell7 11 nodes 6 11 12 66 209 210 207 mat 1 crossSect 1
-tr2shell7 12 nodes 6 12 67 66 211 212 210 mat 1 crossSect 1
-tr2shell7 13 nodes 6 12 13 67 213 214 211 mat 1 crossSect 1
-tr2shell7 14 nodes 6 13 68 67 215 216 214 mat 1 crossSect 1
-tr2shell7 15 nodes 6 13 14 68 217 218 215 mat 1 crossSect 1
-tr2shell7 16 nodes 6 14 69 68 219 220 218 mat 1 crossSect 1
-tr2shell7 17 nodes 6 14 15 69 221 222 219 mat 1 crossSect 1
-tr2shell7 18 nodes 6 15 70 69 223 224 222 mat 1 crossSect 1
-tr2shell7 19 nodes 6 15 2 70 225 226 223 mat 1 crossSect 1
-tr2shell7 20 nodes 6 2 16 70 227 228 226 mat 1 crossSect 1
-tr2shell7 21 nodes 6 38 62 37 192 229 230 mat 1 crossSect 1
-tr2shell7 22 nodes 6 62 71 37 231 232 229 mat 1 crossSect 1
-tr2shell7 23 nodes 6 62 63 71 196 233 231 mat 1 crossSect 1
-tr2shell7 24 nodes 6 63 72 71 234 235 233 mat 1 crossSect 1
-tr2shell7 25 nodes 6 63 64 72 200 236 234 mat 1 crossSect 1
-tr2shell7 26 nodes 6 64 73 72 237 238 236 mat 1 crossSect 1
-tr2shell7 27 nodes 6 64 65 73 204 239 237 mat 1 crossSect 1
-tr2shell7 28 nodes 6 65 74 73 240 241 239 mat 1 crossSect 1
-tr2shell7 29 nodes 6 65 66 74 208 242 240 mat 1 crossSect 1
-tr2shell7 30 nodes 6 66 75 74 243 244 242 mat 1 crossSect 1
-tr2shell7 31 nodes 6 66 67 75 212 245 243 mat 1 crossSect 1
-tr2shell7 32 nodes 6 67 76 75 246 247 245 mat 1 crossSect 1
-tr2shell7 33 nodes 6 67 68 76 216 248 246 mat 1 crossSect 1
-tr2shell7 34 nodes 6 68 77 76 249 250 248 mat 1 crossSect 1
-tr2shell7 35 nodes 6 68 69 77 220 251 249 mat 1 crossSect 1
-tr2shell7 36 nodes 6 69 78 77 252 253 251 mat 1 crossSect 1
-tr2shell7 37 nodes 6 69 70 78 224 254 252 mat 1 crossSect 1
-tr2shell7 38 nodes 6 70 79 78 255 256 254 mat 1 crossSect 1
-tr2shell7 39 nodes 6 70 16 79 228 257 255 mat 1 crossSect 1
-tr2shell7 40 nodes 6 16 17 79 258 259 257 mat 1 crossSect 1
-tr2shell7 41 nodes 6 37 71 36 232 260 261 mat 1 crossSect 1
-tr2shell7 42 nodes 6 71 80 36 262 263 260 mat 1 crossSect 1
-tr2shell7 43 nodes 6 71 72 80 235 264 262 mat 1 crossSect 1
-tr2shell7 44 nodes 6 72 81 80 265 266 264 mat 1 crossSect 1
-tr2shell7 45 nodes 6 72 73 81 238 267 265 mat 1 crossSect 1
-tr2shell7 46 nodes 6 73 82 81 268 269 267 mat 1 crossSect 1
-tr2shell7 47 nodes 6 73 74 82 241 270 268 mat 1 crossSect 1
-tr2shell7 48 nodes 6 74 83 82 271 272 270 mat 1 crossSect 1
-tr2shell7 49 nodes 6 74 75 83 244 273 271 mat 1 crossSect 1
-tr2shell7 50 nodes 6 75 84 83 274 275 273 mat 1 crossSect 1
-tr2shell7 51 nodes 6 75 76 84 247 276 274 mat 1 crossSect 1
-tr2shell7 52 nodes 6 76 85 84 277 278 276 mat 1 crossSect 1
-tr2shell7 53 nodes 6 76 77 85 250 279 277 mat 1 crossSect 1
-tr2shell7 54 nodes 6 77 86 85 280 281 279 mat 1 crossSect 1
-tr2shell7 55 nodes 6 77 78 86 253 282 280 mat 1 crossSect 1
-tr2shell7 56 nodes 6 78 87 86 283 284 282 mat 1 crossSect 1
-tr2shell7 57 nodes 6 78 79 87 256 285 283 mat 1 crossSect 1
-tr2shell7 58 nodes 6 79 88 87 286 287 285 mat 1 crossSect 1
-tr2shell7 59 nodes 6 79 17 88 259 288 286 mat 1 crossSect 1
-tr2shell7 60 nodes 6 17 18 88 289 290 288 mat 1 crossSect 1
-tr2shell7 61 nodes 6 36 80 35 263 291 292 mat 1 crossSect 1
-tr2shell7 62 nodes 6 80 89 35 293 294 291 mat 1 crossSect 1
-tr2shell7 63 nodes 6 80 81 89 266 295 293 mat 1 crossSect 1
-tr2shell7 64 nodes 6 81 90 89 296 297 295 mat 1 crossSect 1
-tr2shell7 65 nodes 6 81 82 90 269 298 296 mat 1 crossSect 1
-tr2shell7 66 nodes 6 82 91 90 299 300 298 mat 1 crossSect 1
-tr2shell7 67 nodes 6 82 83 91 272 301 299 mat 1 crossSect 1
-tr2shell7 68 nodes 6 83 92 91 302 303 301 mat 1 crossSect 1
-tr2shell7 69 nodes 6 83 84 92 275 304 302 mat 1 crossSect 1
-tr2shell7 70 nodes 6 84 93 92 305 306 304 mat 1 crossSect 1
-tr2shell7 71 nodes 6 84 85 93 278 307 305 mat 1 crossSect 1
-tr2shell7 72 nodes 6 85 94 93 308 309 307 mat 1 crossSect 1
-tr2shell7 73 nodes 6 85 86 94 281 310 308 mat 1 crossSect 1
-tr2shell7 74 nodes 6 86 95 94 311 312 310 mat 1 crossSect 1
-tr2shell7 75 nodes 6 86 87 95 284 313 311 mat 1 crossSect 1
-tr2shell7 76 nodes 6 87 96 95 314 315 313 mat 1 crossSect 1
-tr2shell7 77 nodes 6 87 88 96 287 316 314 mat 1 crossSect 1
-tr2shell7 78 nodes 6 88 97 96 317 318 316 mat 1 crossSect 1
-tr2shell7 79 nodes 6 88 18 97 290 319 317 mat 1 crossSect 1
-tr2shell7 80 nodes 6 18 19 97 320 321 319 mat 1 crossSect 1
-tr2shell7 81 nodes 6 35 89 34 294 322 323 mat 1 crossSect 1
-tr2shell7 82 nodes 6 89 98 34 324 325 322 mat 1 crossSect 1
-tr2shell7 83 nodes 6 89 90 98 297 326 324 mat 1 crossSect 1
-tr2shell7 84 nodes 6 90 99 98 327 328 326 mat 1 crossSect 1
-tr2shell7 85 nodes 6 90 91 99 300 329 327 mat 1 crossSect 1
-tr2shell7 86 nodes 6 91 100 99 330 331 329 mat 1 crossSect 1
-tr2shell7 87 nodes 6 91 92 100 303 332 330 mat 1 crossSect 1
-tr2shell7 88 nodes 6 92 101 100 333 334 332 mat 1 crossSect 1
-tr2shell7 89 nodes 6 92 93 101 306 335 333 mat 1 crossSect 1
-tr2shell7 90 nodes 6 93 102 101 336 337 335 mat 1 crossSect 1
-tr2shell7 91 nodes 6 93 94 102 309 338 336 mat 1 crossSect 1
-tr2shell7 92 nodes 6 94 103 102 339 340 338 mat 1 crossSect 1
-tr2shell7 93 nodes 6 94 95 103 312 341 339 mat 1 crossSect 1
-tr2shell7 94 nodes 6 95 104 103 342 343 341 mat 1 crossSect 1
-tr2shell7 95 nodes 6 95 96 104 315 344 342 mat 1 crossSect 1
-tr2shell7 96 nodes 6 96 105 104 345 346 344 mat 1 crossSect 1
-tr2shell7 97 nodes 6 96 97 105 318 347 345 mat 1 crossSect 1
-tr2shell7 98 nodes 6 97 106 105 348 349 347 mat 1 crossSect 1
-tr2shell7 99 nodes 6 97 19 106 321 350 348 mat 1 crossSect 1
-tr2shell7 100 nodes 6 19 20 106 351 352 350 mat 1 crossSect 1
-tr2shell7 101 nodes 6 34 98 33 325 353 354 mat 1 crossSect 1
-tr2shell7 102 nodes 6 98 107 33 355 356 353 mat 1 crossSect 1
-tr2shell7 103 nodes 6 98 99 107 328 357 355 mat 1 crossSect 1
-tr2shell7 104 nodes 6 99 108 107 358 359 357 mat 1 crossSect 1
-tr2shell7 105 nodes 6 99 100 108 331 360 358 mat 1 crossSect 1
-tr2shell7 106 nodes 6 100 109 108 361 362 360 mat 1 crossSect 1
-tr2shell7 107 nodes 6 100 101 109 334 363 361 mat 1 crossSect 1
-tr2shell7 108 nodes 6 101 110 109 364 365 363 mat 1 crossSect 1
-tr2shell7 109 nodes 6 101 102 110 337 366 364 mat 1 crossSect 1
-tr2shell7 110 nodes 6 102 111 110 367 368 366 mat 1 crossSect 1
-tr2shell7 111 nodes 6 102 103 111 340 369 367 mat 1 crossSect 1
-tr2shell7 112 nodes 6 103 112 111 370 371 369 mat 1 crossSect 1
-tr2shell7 113 nodes 6 103 104 112 343 372 370 mat 1 crossSect 1
-tr2shell7 114 nodes 6 104 113 112 373 374 372 mat 1 crossSect 1
-tr2shell7 115 nodes 6 104 105 113 346 375 373 mat 1 crossSect 1
-tr2shell7 116 nodes 6 105 114 113 376 377 375 mat 1 crossSect 1
-tr2shell7 117 nodes 6 105 106 114 349 378 376 mat 1 crossSect 1
-tr2shell7 118 nodes 6 106 115 114 379 380 378 mat 1 crossSect 1
-tr2shell7 119 nodes 6 106 20 115 352 381 379 mat 1 crossSect 1
-tr2shell7 120 nodes 6 20 21 115 382 383 381 mat 1 crossSect 1
-tr2shell7 121 nodes 6 33 107 32 356 384 385 mat 1 crossSect 1
-tr2shell7 122 nodes 6 107 116 32 386 387 384 mat 1 crossSect 1
-tr2shell7 123 nodes 6 107 108 116 359 388 386 mat 1 crossSect 1
-tr2shell7 124 nodes 6 108 117 116 389 390 388 mat 1 crossSect 1
-tr2shell7 125 nodes 6 108 109 117 362 391 389 mat 1 crossSect 1
-tr2shell7 126 nodes 6 109 118 117 392 393 391 mat 1 crossSect 1
-tr2shell7 127 nodes 6 109 110 118 365 394 392 mat 1 crossSect 1
-tr2shell7 128 nodes 6 110 119 118 395 396 394 mat 1 crossSect 1
-tr2shell7 129 nodes 6 110 111 119 368 397 395 mat 1 crossSect 1
-tr2shell7 130 nodes 6 111 120 119 398 399 397 mat 1 crossSect 1
-tr2shell7 131 nodes 6 111 112 120 371 400 398 mat 1 crossSect 1
-tr2shell7 132 nodes 6 112 121 120 401 402 400 mat 1 crossSect 1
-tr2shell7 133 nodes 6 112 113 121 374 403 401 mat 1 crossSect 1
-tr2shell7 134 nodes 6 113 122 121 404 405 403 mat 1 crossSect 1
-tr2shell7 135 nodes 6 113 114 122 377 406 404 mat 1 crossSect 1
-tr2shell7 136 nodes 6 114 123 122 407 408 406 mat 1 crossSect 1
-tr2shell7 137 nodes 6 114 115 123 380 409 407 mat 1 crossSect 1
-tr2shell7 138 nodes 6 115 124 123 410 411 409 mat 1 crossSect 1
-tr2shell7 139 nodes 6 115 21 124 383 412 410 mat 1 crossSect 1
-tr2shell7 140 nodes 6 21 22 124 413 414 412 mat 1 crossSect 1
-tr2shell7 141 nodes 6 32 116 4 387 415 416 mat 1 crossSect 1
-tr2shell7 142 nodes 6 116 31 4 417 418 415 mat 1 crossSect 1
-tr2shell7 143 nodes 6 116 117 31 390 419 417 mat 1 crossSect 1
-tr2shell7 144 nodes 6 117 30 31 420 421 419 mat 1 crossSect 1
-tr2shell7 145 nodes 6 117 118 30 393 422 420 mat 1 crossSect 1
-tr2shell7 146 nodes 6 118 29 30 423 424 422 mat 1 crossSect 1
-tr2shell7 147 nodes 6 118 119 29 396 425 423 mat 1 crossSect 1
-tr2shell7 148 nodes 6 119 28 29 426 427 425 mat 1 crossSect 1
-tr2shell7 149 nodes 6 119 120 28 399 428 426 mat 1 crossSect 1
-tr2shell7 150 nodes 6 120 27 28 429 430 428 mat 1 crossSect 1
-tr2shell7 151 nodes 6 120 121 27 402 431 429 mat 1 crossSect 1
-tr2shell7 152 nodes 6 121 26 27 432 433 431 mat 1 crossSect 1
-tr2shell7 153 nodes 6 121 122 26 405 434 432 mat 1 crossSect 1
-tr2shell7 154 nodes 6 122 25 26 435 436 434 mat 1 crossSect 1
-tr2shell7 155 nodes 6 122 123 25 408 437 435 mat 1 crossSect 1
-tr2shell7 156 nodes 6 123 24 25 438 439 437 mat 1 crossSect 1
-tr2shell7 157 nodes 6 123 124 24 411 440 438 mat 1 crossSect 1
-tr2shell7 158 nodes 6 124 23 24 441 442 440 mat 1 crossSect 1
-tr2shell7 159 nodes 6 124 22 23 414 443 441 mat 1 crossSect 1
-tr2shell7 160 nodes 6 22 3 23 444 445 443 mat 1 crossSect 1
-tr2shell7 161 nodes 6 2 15 125 225 446 447 mat 1 crossSect 1
-tr2shell7 162 nodes 6 125 61 2 448 449 447 mat 1 crossSect 1
-tr2shell7 163 nodes 6 15 14 126 221 450 451 mat 1 crossSect 1
-tr2shell7 164 nodes 6 126 125 15 452 446 451 mat 1 crossSect 1
-tr2shell7 165 nodes 6 14 13 127 217 453 454 mat 1 crossSect 1
-tr2shell7 166 nodes 6 127 126 14 455 450 454 mat 1 crossSect 1
-tr2shell7 167 nodes 6 13 12 128 213 456 457 mat 1 crossSect 1
-tr2shell7 168 nodes 6 128 127 13 458 453 457 mat 1 crossSect 1
-tr2shell7 169 nodes 6 12 11 129 209 459 460 mat 1 crossSect 1
-tr2shell7 170 nodes 6 129 128 12 461 456 460 mat 1 crossSect 1
-tr2shell7 171 nodes 6 11 10 130 205 462 463 mat 1 crossSect 1
-tr2shell7 172 nodes 6 130 129 11 464 459 463 mat 1 crossSect 1
-tr2shell7 173 nodes 6 10 9 131 201 465 466 mat 1 crossSect 1
-tr2shell7 174 nodes 6 131 130 10 467 462 466 mat 1 crossSect 1
-tr2shell7 175 nodes 6 9 8 132 197 468 469 mat 1 crossSect 1
-tr2shell7 176 nodes 6 132 131 9 470 465 469 mat 1 crossSect 1
-tr2shell7 177 nodes 6 8 7 133 193 471 472 mat 1 crossSect 1
-tr2shell7 178 nodes 6 133 132 8 473 468 472 mat 1 crossSect 1
-tr2shell7 179 nodes 6 7 1 39 188 474 475 mat 1 crossSect 1
-tr2shell7 180 nodes 6 39 133 7 476 471 475 mat 1 crossSect 1
-tr2shell7 181 nodes 6 61 125 134 448 477 478 mat 1 crossSect 1
-tr2shell7 182 nodes 6 134 60 61 479 480 478 mat 1 crossSect 1
-tr2shell7 183 nodes 6 125 126 135 452 481 482 mat 1 crossSect 1
-tr2shell7 184 nodes 6 135 134 125 483 477 482 mat 1 crossSect 1
-tr2shell7 185 nodes 6 126 127 136 455 484 485 mat 1 crossSect 1
-tr2shell7 186 nodes 6 136 135 126 486 481 485 mat 1 crossSect 1
-tr2shell7 187 nodes 6 127 128 137 458 487 488 mat 1 crossSect 1
-tr2shell7 188 nodes 6 137 136 127 489 484 488 mat 1 crossSect 1
-tr2shell7 189 nodes 6 128 129 138 461 490 491 mat 1 crossSect 1
-tr2shell7 190 nodes 6 138 137 128 492 487 491 mat 1 crossSect 1
-tr2shell7 191 nodes 6 129 130 139 464 493 494 mat 1 crossSect 1
-tr2shell7 192 nodes 6 139 138 129 495 490 494 mat 1 crossSect 1
-tr2shell7 193 nodes 6 130 131 140 467 496 497 mat 1 crossSect 1
-tr2shell7 194 nodes 6 140 139 130 498 493 497 mat 1 crossSect 1
-tr2shell7 195 nodes 6 131 132 141 470 499 500 mat 1 crossSect 1
-tr2shell7 196 nodes 6 141 140 131 501 496 500 mat 1 crossSect 1
-tr2shell7 197 nodes 6 132 133 142 473 502 503 mat 1 crossSect 1
-tr2shell7 198 nodes 6 142 141 132 504 499 503 mat 1 crossSect 1
-tr2shell7 199 nodes 6 133 39 40 476 505 506 mat 1 crossSect 1
-tr2shell7 200 nodes 6 40 142 133 507 502 506 mat 1 crossSect 1
-tr2shell7 201 nodes 6 60 134 143 479 508 509 mat 1 crossSect 1
-tr2shell7 202 nodes 6 143 59 60 510 511 509 mat 1 crossSect 1
-tr2shell7 203 nodes 6 134 135 144 483 512 513 mat 1 crossSect 1
-tr2shell7 204 nodes 6 144 143 134 514 508 513 mat 1 crossSect 1
-tr2shell7 205 nodes 6 135 136 145 486 515 516 mat 1 crossSect 1
-tr2shell7 206 nodes 6 145 144 135 517 512 516 mat 1 crossSect 1
-tr2shell7 207 nodes 6 136 137 146 489 518 519 mat 1 crossSect 1
-tr2shell7 208 nodes 6 146 145 136 520 515 519 mat 1 crossSect 1
-tr2shell7 209 nodes 6 137 138 147 492 521 522 mat 1 crossSect 1
-tr2shell7 210 nodes 6 147 146 137 523 518 522 mat 1 crossSect 1
-tr2shell7 211 nodes 6 138 139 148 495 524 525 mat 1 crossSect 1
-tr2shell7 212 nodes 6 148 147 138 526 521 525 mat 1 crossSect 1
-tr2shell7 213 nodes 6 139 140 149 498 527 528 mat 1 crossSect 1
-tr2shell7 214 nodes 6 149 148 139 529 524 528 mat 1 crossSect 1
-tr2shell7 215 nodes 6 140 141 150 501 530 531 mat 1 crossSect 1
-tr2shell7 216 nodes 6 150 149 140 532 527 531 mat 1 crossSect 1
-tr2shell7 217 nodes 6 141 142 151 504 533 534 mat 1 crossSect 1
-tr2shell7 218 nodes 6 151 150 141 535 530 534 mat 1 crossSect 1
-tr2shell7 219 nodes 6 142 40 41 507 536 537 mat 1 crossSect 1
-tr2shell7 220 nodes 6 41 151 142 538 533 537 mat 1 crossSect 1
-tr2shell7 221 nodes 6 59 143 152 510 539 540 mat 1 crossSect 1
-tr2shell7 222 nodes 6 152 58 59 541 542 540 mat 1 crossSect 1
-tr2shell7 223 nodes 6 143 144 153 514 543 544 mat 1 crossSect 1
-tr2shell7 224 nodes 6 153 152 143 545 539 544 mat 1 crossSect 1
-tr2shell7 225 nodes 6 144 145 154 517 546 547 mat 1 crossSect 1
-tr2shell7 226 nodes 6 154 153 144 548 543 547 mat 1 crossSect 1
-tr2shell7 227 nodes 6 145 146 155 520 549 550 mat 1 crossSect 1
-tr2shell7 228 nodes 6 155 154 145 551 546 550 mat 1 crossSect 1
-tr2shell7 229 nodes 6 146 147 156 523 552 553 mat 1 crossSect 1
-tr2shell7 230 nodes 6 156 155 146 554 549 553 mat 1 crossSect 1
-tr2shell7 231 nodes 6 147 148 157 526 555 556 mat 1 crossSect 1
-tr2shell7 232 nodes 6 157 156 147 557 552 556 mat 1 crossSect 1
-tr2shell7 233 nodes 6 148 149 158 529 558 559 mat 1 crossSect 1
-tr2shell7 234 nodes 6 158 157 148 560 555 559 mat 1 crossSect 1
-tr2shell7 235 nodes 6 149 150 159 532 561 562 mat 1 crossSect 1
-tr2shell7 236 nodes 6 159 158 149 563 558 562 mat 1 crossSect 1
-tr2shell7 237 nodes 6 150 151 160 535 564 565 mat 1 crossSect 1
-tr2shell7 238 nodes 6 160 159 150 566 561 565 mat 1 crossSect 1
-tr2shell7 239 nodes 6 151 41 42 538 567 568 mat 1 crossSect 1
-tr2shell7 240 nodes 6 42 160 151 569 564 568 mat 1 crossSect 1
-tr2shell7 241 nodes 6 58 152 161 541 570 571 mat 1 crossSect 1
-tr2shell7 242 nodes 6 161 57 58 572 573 571 mat 1 crossSect 1
-tr2shell7 243 nodes 6 152 153 162 545 574 575 mat 1 crossSect 1
-tr2shell7 244 nodes 6 162 161 152 576 570 575 mat 1 crossSect 1
-tr2shell7 245 nodes 6 153 154 163 548 577 578 mat 1 crossSect 1
-tr2shell7 246 nodes 6 163 162 153 579 574 578 mat 1 crossSect 1
-tr2shell7 247 nodes 6 154 155 164 551 580 581 mat 1 crossSect 1
-tr2shell7 248 nodes 6 164 163 154 582 577 581 mat 1 crossSect 1
-tr2shell7 249 nodes 6 155 156 165 554 583 584 mat 1 crossSect 1
-tr2shell7 250 nodes 6 165 164 155 585 580 584 mat 1 crossSect 1
-tr2shell7 251 nodes 6 156 157 166 557 586 587 mat 1 crossSect 1
-tr2shell7 252 nodes 6 166 165 156 588 583 587 mat 1 crossSect 1
-tr2shell7 253 nodes 6 157 158 167 560 589 590 mat 1 crossSect 1
-tr2shell7 254 nodes 6 167 166 157 591 586 590 mat 1 crossSect 1
-tr2shell7 255 nodes 6 158 159 168 563 592 593 mat 1 crossSect 1
-tr2shell7 256 nodes 6 168 167 158 594 589 593 mat 1 crossSect 1
-tr2shell7 257 nodes 6 159 160 169 566 595 596 mat 1 crossSect 1
-tr2shell7 258 nodes 6 169 168 159 597 592 596 mat 1 crossSect 1
-tr2shell7 259 nodes 6 160 42 43 569 598 599 mat 1 crossSect 1
-tr2shell7 260 nodes 6 43 169 160 600 595 599 mat 1 crossSect 1
-tr2shell7 261 nodes 6 57 161 170 572 601 602 mat 1 crossSect 1
-tr2shell7 262 nodes 6 170 56 57 603 604 602 mat 1 crossSect 1
-tr2shell7 263 nodes 6 161 162 171 576 605 606 mat 1 crossSect 1
-tr2shell7 264 nodes 6 171 170 161 607 601 606 mat 1 crossSect 1
-tr2shell7 265 nodes 6 162 163 172 579 608 609 mat 1 crossSect 1
-tr2shell7 266 nodes 6 172 171 162 610 605 609 mat 1 crossSect 1
-tr2shell7 267 nodes 6 163 164 173 582 611 612 mat 1 crossSect 1
-tr2shell7 268 nodes 6 173 172 163 613 608 612 mat 1 crossSect 1
-tr2shell7 269 nodes 6 164 165 174 585 614 615 mat 1 crossSect 1
-tr2shell7 270 nodes 6 174 173 164 616 611 615 mat 1 crossSect 1
-tr2shell7 271 nodes 6 165 166 175 588 617 618 mat 1 crossSect 1
-tr2shell7 272 nodes 6 175 174 165 619 614 618 mat 1 crossSect 1
-tr2shell7 273 nodes 6 166 167 176 591 620 621 mat 1 crossSect 1
-tr2shell7 274 nodes 6 176 175 166 622 617 621 mat 1 crossSect 1
-tr2shell7 275 nodes 6 167 168 177 594 623 624 mat 1 crossSect 1
-tr2shell7 276 nodes 6 177 176 167 625 620 624 mat 1 crossSect 1
-tr2shell7 277 nodes 6 168 169 178 597 626 627 mat 1 crossSect 1
-tr2shell7 278 nodes 6 178 177 168 628 623 627 mat 1 crossSect 1
-tr2shell7 279 nodes 6 169 43 44 600 629 630 mat 1 crossSect 1
-tr2shell7 280 nodes 6 44 178 169 631 626 630 mat 1 crossSect 1
-tr2shell7 281 nodes 6 56 170 179 603 632 633 mat 1 crossSect 1
-tr2shell7 282 nodes 6 179 55 56 634 635 633 mat 1 crossSect 1
-tr2shell7 283 nodes 6 170 171 180 607 636 637 mat 1 crossSect 1
-tr2shell7 284 nodes 6 180 179 170 638 632 637 mat 1 crossSect 1
-tr2shell7 285 nodes 6 171 172 181 610 639 640 mat 1 crossSect 1
-tr2shell7 286 nodes 6 181 180 171 641 636 640 mat 1 crossSect 1
-tr2shell7 287 nodes 6 172 173 182 613 642 643 mat 1 crossSect 1
-tr2shell7 288 nodes 6 182 181 172 644 639 643 mat 1 crossSect 1
-tr2shell7 289 nodes 6 173 174 183 616 645 646 mat 1 crossSect 1
-tr2shell7 290 nodes 6 183 182 173 647 642 646 mat 1 crossSect 1
-tr2shell7 291 nodes 6 174 175 184 619 648 649 mat 1 crossSect 1
-tr2shell7 292 nodes 6 184 183 174 650 645 649 mat 1 crossSect 1
-tr2shell7 293 nodes 6 175 176 185 622 651 652 mat 1 crossSect 1
-tr2shell7 294 nodes 6 185 184 175 653 648 652 mat 1 crossSect 1
-tr2shell7 295 nodes 6 176 177 186 625 654 655 mat 1 crossSect 1
-tr2shell7 296 nodes 6 186 185 176 656 651 655 mat 1 crossSect 1
-tr2shell7 297 nodes 6 177 178 187 628 657 658 mat 1 crossSect 1
-tr2shell7 298 nodes 6 187 186 177 659 654 658 mat 1 crossSect 1
-tr2shell7 299 nodes 6 178 44 45 631 660 661 mat 1 crossSect 1
-tr2shell7 300 nodes 6 45 187 178 662 657 661 mat 1 crossSect 1
-tr2shell7 301 nodes 6 55 179 54 634 663 664 mat 1 crossSect 1
-tr2shell7 302 nodes 6 54 6 55 665 666 664 mat 1 crossSect 1
-tr2shell7 303 nodes 6 179 180 53 638 667 668 mat 1 crossSect 1
-tr2shell7 304 nodes 6 53 54 179 669 663 668 mat 1 crossSect 1
-tr2shell7 305 nodes 6 180 181 52 641 670 671 mat 1 crossSect 1
-tr2shell7 306 nodes 6 52 53 180 672 667 671 mat 1 crossSect 1
-tr2shell7 307 nodes 6 181 182 51 644 673 674 mat 1 crossSect 1
-tr2shell7 308 nodes 6 51 52 181 675 670 674 mat 1 crossSect 1
-tr2shell7 309 nodes 6 182 183 50 647 676 677 mat 1 crossSect 1
-tr2shell7 310 nodes 6 50 51 182 678 673 677 mat 1 crossSect 1
-tr2shell7 311 nodes 6 183 184 49 650 679 680 mat 1 crossSect 1
-tr2shell7 312 nodes 6 49 50 183 681 676 680 mat 1 crossSect 1
-tr2shell7 313 nodes 6 184 185 48 653 682 683 mat 1 crossSect 1
-tr2shell7 314 nodes 6 48 49 184 684 679 683 mat 1 crossSect 1
-tr2shell7 315 nodes 6 185 186 47 656 685 686 mat 1 crossSect 1
-tr2shell7 316 nodes 6 47 48 185 687 682 686 mat 1 crossSect 1
-tr2shell7 317 nodes 6 186 187 46 659 688 689 mat 1 crossSect 1
-tr2shell7 318 nodes 6 46 47 186 690 685 689 mat 1 crossSect 1
-tr2shell7 319 nodes 6 187 45 5 662 691 692 mat 1 crossSect 1
-tr2shell7 320 nodes 6 5 46 187 693 688 692 mat 1 crossSect 1
+tr2shell7 1 nodes 6 1 7 38 188 189 190 mat 1 crossSect 1 nlgeo 1
+tr2shell7 2 nodes 6 7 62 38 191 192 189 mat 1 crossSect 1 nlgeo 1
+tr2shell7 3 nodes 6 7 8 62 193 194 191 mat 1 crossSect 1 nlgeo 1
+tr2shell7 4 nodes 6 8 63 62 195 196 194 mat 1 crossSect 1 nlgeo 1
+tr2shell7 5 nodes 6 8 9 63 197 198 195 mat 1 crossSect 1 nlgeo 1
+tr2shell7 6 nodes 6 9 64 63 199 200 198 mat 1 crossSect 1 nlgeo 1
+tr2shell7 7 nodes 6 9 10 64 201 202 199 mat 1 crossSect 1 nlgeo 1
+tr2shell7 8 nodes 6 10 65 64 203 204 202 mat 1 crossSect 1 nlgeo 1
+tr2shell7 9 nodes 6 10 11 65 205 206 203 mat 1 crossSect 1 nlgeo 1
+tr2shell7 10 nodes 6 11 66 65 207 208 206 mat 1 crossSect 1 nlgeo 1
+tr2shell7 11 nodes 6 11 12 66 209 210 207 mat 1 crossSect 1 nlgeo 1
+tr2shell7 12 nodes 6 12 67 66 211 212 210 mat 1 crossSect 1 nlgeo 1
+tr2shell7 13 nodes 6 12 13 67 213 214 211 mat 1 crossSect 1 nlgeo 1
+tr2shell7 14 nodes 6 13 68 67 215 216 214 mat 1 crossSect 1 nlgeo 1
+tr2shell7 15 nodes 6 13 14 68 217 218 215 mat 1 crossSect 1 nlgeo 1
+tr2shell7 16 nodes 6 14 69 68 219 220 218 mat 1 crossSect 1 nlgeo 1
+tr2shell7 17 nodes 6 14 15 69 221 222 219 mat 1 crossSect 1 nlgeo 1
+tr2shell7 18 nodes 6 15 70 69 223 224 222 mat 1 crossSect 1 nlgeo 1
+tr2shell7 19 nodes 6 15 2 70 225 226 223 mat 1 crossSect 1 nlgeo 1
+tr2shell7 20 nodes 6 2 16 70 227 228 226 mat 1 crossSect 1 nlgeo 1
+tr2shell7 21 nodes 6 38 62 37 192 229 230 mat 1 crossSect 1 nlgeo 1
+tr2shell7 22 nodes 6 62 71 37 231 232 229 mat 1 crossSect 1 nlgeo 1
+tr2shell7 23 nodes 6 62 63 71 196 233 231 mat 1 crossSect 1 nlgeo 1
+tr2shell7 24 nodes 6 63 72 71 234 235 233 mat 1 crossSect 1 nlgeo 1
+tr2shell7 25 nodes 6 63 64 72 200 236 234 mat 1 crossSect 1 nlgeo 1
+tr2shell7 26 nodes 6 64 73 72 237 238 236 mat 1 crossSect 1 nlgeo 1
+tr2shell7 27 nodes 6 64 65 73 204 239 237 mat 1 crossSect 1 nlgeo 1
+tr2shell7 28 nodes 6 65 74 73 240 241 239 mat 1 crossSect 1 nlgeo 1
+tr2shell7 29 nodes 6 65 66 74 208 242 240 mat 1 crossSect 1 nlgeo 1
+tr2shell7 30 nodes 6 66 75 74 243 244 242 mat 1 crossSect 1 nlgeo 1
+tr2shell7 31 nodes 6 66 67 75 212 245 243 mat 1 crossSect 1 nlgeo 1
+tr2shell7 32 nodes 6 67 76 75 246 247 245 mat 1 crossSect 1 nlgeo 1
+tr2shell7 33 nodes 6 67 68 76 216 248 246 mat 1 crossSect 1 nlgeo 1
+tr2shell7 34 nodes 6 68 77 76 249 250 248 mat 1 crossSect 1 nlgeo 1
+tr2shell7 35 nodes 6 68 69 77 220 251 249 mat 1 crossSect 1 nlgeo 1
+tr2shell7 36 nodes 6 69 78 77 252 253 251 mat 1 crossSect 1 nlgeo 1
+tr2shell7 37 nodes 6 69 70 78 224 254 252 mat 1 crossSect 1 nlgeo 1
+tr2shell7 38 nodes 6 70 79 78 255 256 254 mat 1 crossSect 1 nlgeo 1
+tr2shell7 39 nodes 6 70 16 79 228 257 255 mat 1 crossSect 1 nlgeo 1
+tr2shell7 40 nodes 6 16 17 79 258 259 257 mat 1 crossSect 1 nlgeo 1
+tr2shell7 41 nodes 6 37 71 36 232 260 261 mat 1 crossSect 1 nlgeo 1
+tr2shell7 42 nodes 6 71 80 36 262 263 260 mat 1 crossSect 1 nlgeo 1
+tr2shell7 43 nodes 6 71 72 80 235 264 262 mat 1 crossSect 1 nlgeo 1
+tr2shell7 44 nodes 6 72 81 80 265 266 264 mat 1 crossSect 1 nlgeo 1
+tr2shell7 45 nodes 6 72 73 81 238 267 265 mat 1 crossSect 1 nlgeo 1
+tr2shell7 46 nodes 6 73 82 81 268 269 267 mat 1 crossSect 1 nlgeo 1
+tr2shell7 47 nodes 6 73 74 82 241 270 268 mat 1 crossSect 1 nlgeo 1
+tr2shell7 48 nodes 6 74 83 82 271 272 270 mat 1 crossSect 1 nlgeo 1
+tr2shell7 49 nodes 6 74 75 83 244 273 271 mat 1 crossSect 1 nlgeo 1
+tr2shell7 50 nodes 6 75 84 83 274 275 273 mat 1 crossSect 1 nlgeo 1
+tr2shell7 51 nodes 6 75 76 84 247 276 274 mat 1 crossSect 1 nlgeo 1
+tr2shell7 52 nodes 6 76 85 84 277 278 276 mat 1 crossSect 1 nlgeo 1
+tr2shell7 53 nodes 6 76 77 85 250 279 277 mat 1 crossSect 1 nlgeo 1
+tr2shell7 54 nodes 6 77 86 85 280 281 279 mat 1 crossSect 1 nlgeo 1
+tr2shell7 55 nodes 6 77 78 86 253 282 280 mat 1 crossSect 1 nlgeo 1
+tr2shell7 56 nodes 6 78 87 86 283 284 282 mat 1 crossSect 1 nlgeo 1
+tr2shell7 57 nodes 6 78 79 87 256 285 283 mat 1 crossSect 1 nlgeo 1
+tr2shell7 58 nodes 6 79 88 87 286 287 285 mat 1 crossSect 1 nlgeo 1
+tr2shell7 59 nodes 6 79 17 88 259 288 286 mat 1 crossSect 1 nlgeo 1
+tr2shell7 60 nodes 6 17 18 88 289 290 288 mat 1 crossSect 1 nlgeo 1
+tr2shell7 61 nodes 6 36 80 35 263 291 292 mat 1 crossSect 1 nlgeo 1
+tr2shell7 62 nodes 6 80 89 35 293 294 291 mat 1 crossSect 1 nlgeo 1
+tr2shell7 63 nodes 6 80 81 89 266 295 293 mat 1 crossSect 1 nlgeo 1
+tr2shell7 64 nodes 6 81 90 89 296 297 295 mat 1 crossSect 1 nlgeo 1
+tr2shell7 65 nodes 6 81 82 90 269 298 296 mat 1 crossSect 1 nlgeo 1
+tr2shell7 66 nodes 6 82 91 90 299 300 298 mat 1 crossSect 1 nlgeo 1
+tr2shell7 67 nodes 6 82 83 91 272 301 299 mat 1 crossSect 1 nlgeo 1
+tr2shell7 68 nodes 6 83 92 91 302 303 301 mat 1 crossSect 1 nlgeo 1
+tr2shell7 69 nodes 6 83 84 92 275 304 302 mat 1 crossSect 1 nlgeo 1
+tr2shell7 70 nodes 6 84 93 92 305 306 304 mat 1 crossSect 1 nlgeo 1
+tr2shell7 71 nodes 6 84 85 93 278 307 305 mat 1 crossSect 1 nlgeo 1
+tr2shell7 72 nodes 6 85 94 93 308 309 307 mat 1 crossSect 1 nlgeo 1
+tr2shell7 73 nodes 6 85 86 94 281 310 308 mat 1 crossSect 1 nlgeo 1
+tr2shell7 74 nodes 6 86 95 94 311 312 310 mat 1 crossSect 1 nlgeo 1
+tr2shell7 75 nodes 6 86 87 95 284 313 311 mat 1 crossSect 1 nlgeo 1
+tr2shell7 76 nodes 6 87 96 95 314 315 313 mat 1 crossSect 1 nlgeo 1
+tr2shell7 77 nodes 6 87 88 96 287 316 314 mat 1 crossSect 1 nlgeo 1
+tr2shell7 78 nodes 6 88 97 96 317 318 316 mat 1 crossSect 1 nlgeo 1
+tr2shell7 79 nodes 6 88 18 97 290 319 317 mat 1 crossSect 1 nlgeo 1
+tr2shell7 80 nodes 6 18 19 97 320 321 319 mat 1 crossSect 1 nlgeo 1
+tr2shell7 81 nodes 6 35 89 34 294 322 323 mat 1 crossSect 1 nlgeo 1
+tr2shell7 82 nodes 6 89 98 34 324 325 322 mat 1 crossSect 1 nlgeo 1
+tr2shell7 83 nodes 6 89 90 98 297 326 324 mat 1 crossSect 1 nlgeo 1
+tr2shell7 84 nodes 6 90 99 98 327 328 326 mat 1 crossSect 1 nlgeo 1
+tr2shell7 85 nodes 6 90 91 99 300 329 327 mat 1 crossSect 1 nlgeo 1
+tr2shell7 86 nodes 6 91 100 99 330 331 329 mat 1 crossSect 1 nlgeo 1
+tr2shell7 87 nodes 6 91 92 100 303 332 330 mat 1 crossSect 1 nlgeo 1
+tr2shell7 88 nodes 6 92 101 100 333 334 332 mat 1 crossSect 1 nlgeo 1
+tr2shell7 89 nodes 6 92 93 101 306 335 333 mat 1 crossSect 1 nlgeo 1
+tr2shell7 90 nodes 6 93 102 101 336 337 335 mat 1 crossSect 1 nlgeo 1
+tr2shell7 91 nodes 6 93 94 102 309 338 336 mat 1 crossSect 1 nlgeo 1
+tr2shell7 92 nodes 6 94 103 102 339 340 338 mat 1 crossSect 1 nlgeo 1
+tr2shell7 93 nodes 6 94 95 103 312 341 339 mat 1 crossSect 1 nlgeo 1
+tr2shell7 94 nodes 6 95 104 103 342 343 341 mat 1 crossSect 1 nlgeo 1
+tr2shell7 95 nodes 6 95 96 104 315 344 342 mat 1 crossSect 1 nlgeo 1
+tr2shell7 96 nodes 6 96 105 104 345 346 344 mat 1 crossSect 1 nlgeo 1
+tr2shell7 97 nodes 6 96 97 105 318 347 345 mat 1 crossSect 1 nlgeo 1
+tr2shell7 98 nodes 6 97 106 105 348 349 347 mat 1 crossSect 1 nlgeo 1
+tr2shell7 99 nodes 6 97 19 106 321 350 348 mat 1 crossSect 1 nlgeo 1
+tr2shell7 100 nodes 6 19 20 106 351 352 350 mat 1 crossSect 1 nlgeo 1
+tr2shell7 101 nodes 6 34 98 33 325 353 354 mat 1 crossSect 1 nlgeo 1
+tr2shell7 102 nodes 6 98 107 33 355 356 353 mat 1 crossSect 1 nlgeo 1
+tr2shell7 103 nodes 6 98 99 107 328 357 355 mat 1 crossSect 1 nlgeo 1
+tr2shell7 104 nodes 6 99 108 107 358 359 357 mat 1 crossSect 1 nlgeo 1
+tr2shell7 105 nodes 6 99 100 108 331 360 358 mat 1 crossSect 1 nlgeo 1
+tr2shell7 106 nodes 6 100 109 108 361 362 360 mat 1 crossSect 1 nlgeo 1
+tr2shell7 107 nodes 6 100 101 109 334 363 361 mat 1 crossSect 1 nlgeo 1
+tr2shell7 108 nodes 6 101 110 109 364 365 363 mat 1 crossSect 1 nlgeo 1
+tr2shell7 109 nodes 6 101 102 110 337 366 364 mat 1 crossSect 1 nlgeo 1
+tr2shell7 110 nodes 6 102 111 110 367 368 366 mat 1 crossSect 1 nlgeo 1
+tr2shell7 111 nodes 6 102 103 111 340 369 367 mat 1 crossSect 1 nlgeo 1
+tr2shell7 112 nodes 6 103 112 111 370 371 369 mat 1 crossSect 1 nlgeo 1
+tr2shell7 113 nodes 6 103 104 112 343 372 370 mat 1 crossSect 1 nlgeo 1
+tr2shell7 114 nodes 6 104 113 112 373 374 372 mat 1 crossSect 1 nlgeo 1
+tr2shell7 115 nodes 6 104 105 113 346 375 373 mat 1 crossSect 1 nlgeo 1
+tr2shell7 116 nodes 6 105 114 113 376 377 375 mat 1 crossSect 1 nlgeo 1
+tr2shell7 117 nodes 6 105 106 114 349 378 376 mat 1 crossSect 1 nlgeo 1
+tr2shell7 118 nodes 6 106 115 114 379 380 378 mat 1 crossSect 1 nlgeo 1
+tr2shell7 119 nodes 6 106 20 115 352 381 379 mat 1 crossSect 1 nlgeo 1
+tr2shell7 120 nodes 6 20 21 115 382 383 381 mat 1 crossSect 1 nlgeo 1
+tr2shell7 121 nodes 6 33 107 32 356 384 385 mat 1 crossSect 1 nlgeo 1
+tr2shell7 122 nodes 6 107 116 32 386 387 384 mat 1 crossSect 1 nlgeo 1
+tr2shell7 123 nodes 6 107 108 116 359 388 386 mat 1 crossSect 1 nlgeo 1
+tr2shell7 124 nodes 6 108 117 116 389 390 388 mat 1 crossSect 1 nlgeo 1
+tr2shell7 125 nodes 6 108 109 117 362 391 389 mat 1 crossSect 1 nlgeo 1
+tr2shell7 126 nodes 6 109 118 117 392 393 391 mat 1 crossSect 1 nlgeo 1
+tr2shell7 127 nodes 6 109 110 118 365 394 392 mat 1 crossSect 1 nlgeo 1
+tr2shell7 128 nodes 6 110 119 118 395 396 394 mat 1 crossSect 1 nlgeo 1
+tr2shell7 129 nodes 6 110 111 119 368 397 395 mat 1 crossSect 1 nlgeo 1
+tr2shell7 130 nodes 6 111 120 119 398 399 397 mat 1 crossSect 1 nlgeo 1
+tr2shell7 131 nodes 6 111 112 120 371 400 398 mat 1 crossSect 1 nlgeo 1
+tr2shell7 132 nodes 6 112 121 120 401 402 400 mat 1 crossSect 1 nlgeo 1
+tr2shell7 133 nodes 6 112 113 121 374 403 401 mat 1 crossSect 1 nlgeo 1
+tr2shell7 134 nodes 6 113 122 121 404 405 403 mat 1 crossSect 1 nlgeo 1
+tr2shell7 135 nodes 6 113 114 122 377 406 404 mat 1 crossSect 1 nlgeo 1
+tr2shell7 136 nodes 6 114 123 122 407 408 406 mat 1 crossSect 1 nlgeo 1
+tr2shell7 137 nodes 6 114 115 123 380 409 407 mat 1 crossSect 1 nlgeo 1
+tr2shell7 138 nodes 6 115 124 123 410 411 409 mat 1 crossSect 1 nlgeo 1
+tr2shell7 139 nodes 6 115 21 124 383 412 410 mat 1 crossSect 1 nlgeo 1
+tr2shell7 140 nodes 6 21 22 124 413 414 412 mat 1 crossSect 1 nlgeo 1
+tr2shell7 141 nodes 6 32 116 4 387 415 416 mat 1 crossSect 1 nlgeo 1
+tr2shell7 142 nodes 6 116 31 4 417 418 415 mat 1 crossSect 1 nlgeo 1
+tr2shell7 143 nodes 6 116 117 31 390 419 417 mat 1 crossSect 1 nlgeo 1
+tr2shell7 144 nodes 6 117 30 31 420 421 419 mat 1 crossSect 1 nlgeo 1
+tr2shell7 145 nodes 6 117 118 30 393 422 420 mat 1 crossSect 1 nlgeo 1
+tr2shell7 146 nodes 6 118 29 30 423 424 422 mat 1 crossSect 1 nlgeo 1
+tr2shell7 147 nodes 6 118 119 29 396 425 423 mat 1 crossSect 1 nlgeo 1
+tr2shell7 148 nodes 6 119 28 29 426 427 425 mat 1 crossSect 1 nlgeo 1
+tr2shell7 149 nodes 6 119 120 28 399 428 426 mat 1 crossSect 1 nlgeo 1
+tr2shell7 150 nodes 6 120 27 28 429 430 428 mat 1 crossSect 1 nlgeo 1
+tr2shell7 151 nodes 6 120 121 27 402 431 429 mat 1 crossSect 1 nlgeo 1
+tr2shell7 152 nodes 6 121 26 27 432 433 431 mat 1 crossSect 1 nlgeo 1
+tr2shell7 153 nodes 6 121 122 26 405 434 432 mat 1 crossSect 1 nlgeo 1
+tr2shell7 154 nodes 6 122 25 26 435 436 434 mat 1 crossSect 1 nlgeo 1
+tr2shell7 155 nodes 6 122 123 25 408 437 435 mat 1 crossSect 1 nlgeo 1
+tr2shell7 156 nodes 6 123 24 25 438 439 437 mat 1 crossSect 1 nlgeo 1
+tr2shell7 157 nodes 6 123 124 24 411 440 438 mat 1 crossSect 1 nlgeo 1
+tr2shell7 158 nodes 6 124 23 24 441 442 440 mat 1 crossSect 1 nlgeo 1
+tr2shell7 159 nodes 6 124 22 23 414 443 441 mat 1 crossSect 1 nlgeo 1
+tr2shell7 160 nodes 6 22 3 23 444 445 443 mat 1 crossSect 1 nlgeo 1
+tr2shell7 161 nodes 6 2 15 125 225 446 447 mat 1 crossSect 1 nlgeo 1
+tr2shell7 162 nodes 6 125 61 2 448 449 447 mat 1 crossSect 1 nlgeo 1
+tr2shell7 163 nodes 6 15 14 126 221 450 451 mat 1 crossSect 1 nlgeo 1
+tr2shell7 164 nodes 6 126 125 15 452 446 451 mat 1 crossSect 1 nlgeo 1
+tr2shell7 165 nodes 6 14 13 127 217 453 454 mat 1 crossSect 1 nlgeo 1
+tr2shell7 166 nodes 6 127 126 14 455 450 454 mat 1 crossSect 1 nlgeo 1
+tr2shell7 167 nodes 6 13 12 128 213 456 457 mat 1 crossSect 1 nlgeo 1
+tr2shell7 168 nodes 6 128 127 13 458 453 457 mat 1 crossSect 1 nlgeo 1
+tr2shell7 169 nodes 6 12 11 129 209 459 460 mat 1 crossSect 1 nlgeo 1
+tr2shell7 170 nodes 6 129 128 12 461 456 460 mat 1 crossSect 1 nlgeo 1
+tr2shell7 171 nodes 6 11 10 130 205 462 463 mat 1 crossSect 1 nlgeo 1
+tr2shell7 172 nodes 6 130 129 11 464 459 463 mat 1 crossSect 1 nlgeo 1
+tr2shell7 173 nodes 6 10 9 131 201 465 466 mat 1 crossSect 1 nlgeo 1
+tr2shell7 174 nodes 6 131 130 10 467 462 466 mat 1 crossSect 1 nlgeo 1
+tr2shell7 175 nodes 6 9 8 132 197 468 469 mat 1 crossSect 1 nlgeo 1
+tr2shell7 176 nodes 6 132 131 9 470 465 469 mat 1 crossSect 1 nlgeo 1
+tr2shell7 177 nodes 6 8 7 133 193 471 472 mat 1 crossSect 1 nlgeo 1
+tr2shell7 178 nodes 6 133 132 8 473 468 472 mat 1 crossSect 1 nlgeo 1
+tr2shell7 179 nodes 6 7 1 39 188 474 475 mat 1 crossSect 1 nlgeo 1
+tr2shell7 180 nodes 6 39 133 7 476 471 475 mat 1 crossSect 1 nlgeo 1
+tr2shell7 181 nodes 6 61 125 134 448 477 478 mat 1 crossSect 1 nlgeo 1
+tr2shell7 182 nodes 6 134 60 61 479 480 478 mat 1 crossSect 1 nlgeo 1
+tr2shell7 183 nodes 6 125 126 135 452 481 482 mat 1 crossSect 1 nlgeo 1
+tr2shell7 184 nodes 6 135 134 125 483 477 482 mat 1 crossSect 1 nlgeo 1
+tr2shell7 185 nodes 6 126 127 136 455 484 485 mat 1 crossSect 1 nlgeo 1
+tr2shell7 186 nodes 6 136 135 126 486 481 485 mat 1 crossSect 1 nlgeo 1
+tr2shell7 187 nodes 6 127 128 137 458 487 488 mat 1 crossSect 1 nlgeo 1
+tr2shell7 188 nodes 6 137 136 127 489 484 488 mat 1 crossSect 1 nlgeo 1
+tr2shell7 189 nodes 6 128 129 138 461 490 491 mat 1 crossSect 1 nlgeo 1
+tr2shell7 190 nodes 6 138 137 128 492 487 491 mat 1 crossSect 1 nlgeo 1
+tr2shell7 191 nodes 6 129 130 139 464 493 494 mat 1 crossSect 1 nlgeo 1
+tr2shell7 192 nodes 6 139 138 129 495 490 494 mat 1 crossSect 1 nlgeo 1
+tr2shell7 193 nodes 6 130 131 140 467 496 497 mat 1 crossSect 1 nlgeo 1
+tr2shell7 194 nodes 6 140 139 130 498 493 497 mat 1 crossSect 1 nlgeo 1
+tr2shell7 195 nodes 6 131 132 141 470 499 500 mat 1 crossSect 1 nlgeo 1
+tr2shell7 196 nodes 6 141 140 131 501 496 500 mat 1 crossSect 1 nlgeo 1
+tr2shell7 197 nodes 6 132 133 142 473 502 503 mat 1 crossSect 1 nlgeo 1
+tr2shell7 198 nodes 6 142 141 132 504 499 503 mat 1 crossSect 1 nlgeo 1
+tr2shell7 199 nodes 6 133 39 40 476 505 506 mat 1 crossSect 1 nlgeo 1
+tr2shell7 200 nodes 6 40 142 133 507 502 506 mat 1 crossSect 1 nlgeo 1
+tr2shell7 201 nodes 6 60 134 143 479 508 509 mat 1 crossSect 1 nlgeo 1
+tr2shell7 202 nodes 6 143 59 60 510 511 509 mat 1 crossSect 1 nlgeo 1
+tr2shell7 203 nodes 6 134 135 144 483 512 513 mat 1 crossSect 1 nlgeo 1
+tr2shell7 204 nodes 6 144 143 134 514 508 513 mat 1 crossSect 1 nlgeo 1
+tr2shell7 205 nodes 6 135 136 145 486 515 516 mat 1 crossSect 1 nlgeo 1
+tr2shell7 206 nodes 6 145 144 135 517 512 516 mat 1 crossSect 1 nlgeo 1
+tr2shell7 207 nodes 6 136 137 146 489 518 519 mat 1 crossSect 1 nlgeo 1
+tr2shell7 208 nodes 6 146 145 136 520 515 519 mat 1 crossSect 1 nlgeo 1
+tr2shell7 209 nodes 6 137 138 147 492 521 522 mat 1 crossSect 1 nlgeo 1
+tr2shell7 210 nodes 6 147 146 137 523 518 522 mat 1 crossSect 1 nlgeo 1
+tr2shell7 211 nodes 6 138 139 148 495 524 525 mat 1 crossSect 1 nlgeo 1
+tr2shell7 212 nodes 6 148 147 138 526 521 525 mat 1 crossSect 1 nlgeo 1
+tr2shell7 213 nodes 6 139 140 149 498 527 528 mat 1 crossSect 1 nlgeo 1
+tr2shell7 214 nodes 6 149 148 139 529 524 528 mat 1 crossSect 1 nlgeo 1
+tr2shell7 215 nodes 6 140 141 150 501 530 531 mat 1 crossSect 1 nlgeo 1
+tr2shell7 216 nodes 6 150 149 140 532 527 531 mat 1 crossSect 1 nlgeo 1
+tr2shell7 217 nodes 6 141 142 151 504 533 534 mat 1 crossSect 1 nlgeo 1
+tr2shell7 218 nodes 6 151 150 141 535 530 534 mat 1 crossSect 1 nlgeo 1
+tr2shell7 219 nodes 6 142 40 41 507 536 537 mat 1 crossSect 1 nlgeo 1
+tr2shell7 220 nodes 6 41 151 142 538 533 537 mat 1 crossSect 1 nlgeo 1
+tr2shell7 221 nodes 6 59 143 152 510 539 540 mat 1 crossSect 1 nlgeo 1
+tr2shell7 222 nodes 6 152 58 59 541 542 540 mat 1 crossSect 1 nlgeo 1
+tr2shell7 223 nodes 6 143 144 153 514 543 544 mat 1 crossSect 1 nlgeo 1
+tr2shell7 224 nodes 6 153 152 143 545 539 544 mat 1 crossSect 1 nlgeo 1
+tr2shell7 225 nodes 6 144 145 154 517 546 547 mat 1 crossSect 1 nlgeo 1
+tr2shell7 226 nodes 6 154 153 144 548 543 547 mat 1 crossSect 1 nlgeo 1
+tr2shell7 227 nodes 6 145 146 155 520 549 550 mat 1 crossSect 1 nlgeo 1
+tr2shell7 228 nodes 6 155 154 145 551 546 550 mat 1 crossSect 1 nlgeo 1
+tr2shell7 229 nodes 6 146 147 156 523 552 553 mat 1 crossSect 1 nlgeo 1
+tr2shell7 230 nodes 6 156 155 146 554 549 553 mat 1 crossSect 1 nlgeo 1
+tr2shell7 231 nodes 6 147 148 157 526 555 556 mat 1 crossSect 1 nlgeo 1
+tr2shell7 232 nodes 6 157 156 147 557 552 556 mat 1 crossSect 1 nlgeo 1
+tr2shell7 233 nodes 6 148 149 158 529 558 559 mat 1 crossSect 1 nlgeo 1
+tr2shell7 234 nodes 6 158 157 148 560 555 559 mat 1 crossSect 1 nlgeo 1
+tr2shell7 235 nodes 6 149 150 159 532 561 562 mat 1 crossSect 1 nlgeo 1
+tr2shell7 236 nodes 6 159 158 149 563 558 562 mat 1 crossSect 1 nlgeo 1
+tr2shell7 237 nodes 6 150 151 160 535 564 565 mat 1 crossSect 1 nlgeo 1
+tr2shell7 238 nodes 6 160 159 150 566 561 565 mat 1 crossSect 1 nlgeo 1
+tr2shell7 239 nodes 6 151 41 42 538 567 568 mat 1 crossSect 1 nlgeo 1
+tr2shell7 240 nodes 6 42 160 151 569 564 568 mat 1 crossSect 1 nlgeo 1
+tr2shell7 241 nodes 6 58 152 161 541 570 571 mat 1 crossSect 1 nlgeo 1
+tr2shell7 242 nodes 6 161 57 58 572 573 571 mat 1 crossSect 1 nlgeo 1
+tr2shell7 243 nodes 6 152 153 162 545 574 575 mat 1 crossSect 1 nlgeo 1
+tr2shell7 244 nodes 6 162 161 152 576 570 575 mat 1 crossSect 1 nlgeo 1
+tr2shell7 245 nodes 6 153 154 163 548 577 578 mat 1 crossSect 1 nlgeo 1
+tr2shell7 246 nodes 6 163 162 153 579 574 578 mat 1 crossSect 1 nlgeo 1
+tr2shell7 247 nodes 6 154 155 164 551 580 581 mat 1 crossSect 1 nlgeo 1
+tr2shell7 248 nodes 6 164 163 154 582 577 581 mat 1 crossSect 1 nlgeo 1
+tr2shell7 249 nodes 6 155 156 165 554 583 584 mat 1 crossSect 1 nlgeo 1
+tr2shell7 250 nodes 6 165 164 155 585 580 584 mat 1 crossSect 1 nlgeo 1
+tr2shell7 251 nodes 6 156 157 166 557 586 587 mat 1 crossSect 1 nlgeo 1
+tr2shell7 252 nodes 6 166 165 156 588 583 587 mat 1 crossSect 1 nlgeo 1
+tr2shell7 253 nodes 6 157 158 167 560 589 590 mat 1 crossSect 1 nlgeo 1
+tr2shell7 254 nodes 6 167 166 157 591 586 590 mat 1 crossSect 1 nlgeo 1
+tr2shell7 255 nodes 6 158 159 168 563 592 593 mat 1 crossSect 1 nlgeo 1
+tr2shell7 256 nodes 6 168 167 158 594 589 593 mat 1 crossSect 1 nlgeo 1
+tr2shell7 257 nodes 6 159 160 169 566 595 596 mat 1 crossSect 1 nlgeo 1
+tr2shell7 258 nodes 6 169 168 159 597 592 596 mat 1 crossSect 1 nlgeo 1
+tr2shell7 259 nodes 6 160 42 43 569 598 599 mat 1 crossSect 1 nlgeo 1
+tr2shell7 260 nodes 6 43 169 160 600 595 599 mat 1 crossSect 1 nlgeo 1
+tr2shell7 261 nodes 6 57 161 170 572 601 602 mat 1 crossSect 1 nlgeo 1
+tr2shell7 262 nodes 6 170 56 57 603 604 602 mat 1 crossSect 1 nlgeo 1
+tr2shell7 263 nodes 6 161 162 171 576 605 606 mat 1 crossSect 1 nlgeo 1
+tr2shell7 264 nodes 6 171 170 161 607 601 606 mat 1 crossSect 1 nlgeo 1
+tr2shell7 265 nodes 6 162 163 172 579 608 609 mat 1 crossSect 1 nlgeo 1
+tr2shell7 266 nodes 6 172 171 162 610 605 609 mat 1 crossSect 1 nlgeo 1
+tr2shell7 267 nodes 6 163 164 173 582 611 612 mat 1 crossSect 1 nlgeo 1
+tr2shell7 268 nodes 6 173 172 163 613 608 612 mat 1 crossSect 1 nlgeo 1
+tr2shell7 269 nodes 6 164 165 174 585 614 615 mat 1 crossSect 1 nlgeo 1
+tr2shell7 270 nodes 6 174 173 164 616 611 615 mat 1 crossSect 1 nlgeo 1
+tr2shell7 271 nodes 6 165 166 175 588 617 618 mat 1 crossSect 1 nlgeo 1
+tr2shell7 272 nodes 6 175 174 165 619 614 618 mat 1 crossSect 1 nlgeo 1
+tr2shell7 273 nodes 6 166 167 176 591 620 621 mat 1 crossSect 1 nlgeo 1
+tr2shell7 274 nodes 6 176 175 166 622 617 621 mat 1 crossSect 1 nlgeo 1
+tr2shell7 275 nodes 6 167 168 177 594 623 624 mat 1 crossSect 1 nlgeo 1
+tr2shell7 276 nodes 6 177 176 167 625 620 624 mat 1 crossSect 1 nlgeo 1
+tr2shell7 277 nodes 6 168 169 178 597 626 627 mat 1 crossSect 1 nlgeo 1
+tr2shell7 278 nodes 6 178 177 168 628 623 627 mat 1 crossSect 1 nlgeo 1
+tr2shell7 279 nodes 6 169 43 44 600 629 630 mat 1 crossSect 1 nlgeo 1
+tr2shell7 280 nodes 6 44 178 169 631 626 630 mat 1 crossSect 1 nlgeo 1
+tr2shell7 281 nodes 6 56 170 179 603 632 633 mat 1 crossSect 1 nlgeo 1
+tr2shell7 282 nodes 6 179 55 56 634 635 633 mat 1 crossSect 1 nlgeo 1
+tr2shell7 283 nodes 6 170 171 180 607 636 637 mat 1 crossSect 1 nlgeo 1
+tr2shell7 284 nodes 6 180 179 170 638 632 637 mat 1 crossSect 1 nlgeo 1
+tr2shell7 285 nodes 6 171 172 181 610 639 640 mat 1 crossSect 1 nlgeo 1
+tr2shell7 286 nodes 6 181 180 171 641 636 640 mat 1 crossSect 1 nlgeo 1
+tr2shell7 287 nodes 6 172 173 182 613 642 643 mat 1 crossSect 1 nlgeo 1
+tr2shell7 288 nodes 6 182 181 172 644 639 643 mat 1 crossSect 1 nlgeo 1
+tr2shell7 289 nodes 6 173 174 183 616 645 646 mat 1 crossSect 1 nlgeo 1
+tr2shell7 290 nodes 6 183 182 173 647 642 646 mat 1 crossSect 1 nlgeo 1
+tr2shell7 291 nodes 6 174 175 184 619 648 649 mat 1 crossSect 1 nlgeo 1
+tr2shell7 292 nodes 6 184 183 174 650 645 649 mat 1 crossSect 1 nlgeo 1
+tr2shell7 293 nodes 6 175 176 185 622 651 652 mat 1 crossSect 1 nlgeo 1
+tr2shell7 294 nodes 6 185 184 175 653 648 652 mat 1 crossSect 1 nlgeo 1
+tr2shell7 295 nodes 6 176 177 186 625 654 655 mat 1 crossSect 1 nlgeo 1
+tr2shell7 296 nodes 6 186 185 176 656 651 655 mat 1 crossSect 1 nlgeo 1
+tr2shell7 297 nodes 6 177 178 187 628 657 658 mat 1 crossSect 1 nlgeo 1
+tr2shell7 298 nodes 6 187 186 177 659 654 658 mat 1 crossSect 1 nlgeo 1
+tr2shell7 299 nodes 6 178 44 45 631 660 661 mat 1 crossSect 1 nlgeo 1
+tr2shell7 300 nodes 6 45 187 178 662 657 661 mat 1 crossSect 1 nlgeo 1
+tr2shell7 301 nodes 6 55 179 54 634 663 664 mat 1 crossSect 1 nlgeo 1
+tr2shell7 302 nodes 6 54 6 55 665 666 664 mat 1 crossSect 1 nlgeo 1
+tr2shell7 303 nodes 6 179 180 53 638 667 668 mat 1 crossSect 1 nlgeo 1
+tr2shell7 304 nodes 6 53 54 179 669 663 668 mat 1 crossSect 1 nlgeo 1
+tr2shell7 305 nodes 6 180 181 52 641 670 671 mat 1 crossSect 1 nlgeo 1
+tr2shell7 306 nodes 6 52 53 180 672 667 671 mat 1 crossSect 1 nlgeo 1
+tr2shell7 307 nodes 6 181 182 51 644 673 674 mat 1 crossSect 1 nlgeo 1
+tr2shell7 308 nodes 6 51 52 181 675 670 674 mat 1 crossSect 1 nlgeo 1
+tr2shell7 309 nodes 6 182 183 50 647 676 677 mat 1 crossSect 1 nlgeo 1
+tr2shell7 310 nodes 6 50 51 182 678 673 677 mat 1 crossSect 1 nlgeo 1
+tr2shell7 311 nodes 6 183 184 49 650 679 680 mat 1 crossSect 1 nlgeo 1
+tr2shell7 312 nodes 6 49 50 183 681 676 680 mat 1 crossSect 1 nlgeo 1
+tr2shell7 313 nodes 6 184 185 48 653 682 683 mat 1 crossSect 1 nlgeo 1
+tr2shell7 314 nodes 6 48 49 184 684 679 683 mat 1 crossSect 1 nlgeo 1
+tr2shell7 315 nodes 6 185 186 47 656 685 686 mat 1 crossSect 1 nlgeo 1
+tr2shell7 316 nodes 6 47 48 185 687 682 686 mat 1 crossSect 1 nlgeo 1
+tr2shell7 317 nodes 6 186 187 46 659 688 689 mat 1 crossSect 1 nlgeo 1
+tr2shell7 318 nodes 6 46 47 186 690 685 689 mat 1 crossSect 1 nlgeo 1
+tr2shell7 319 nodes 6 187 45 5 662 691 692 mat 1 crossSect 1 nlgeo 1
+tr2shell7 320 nodes 6 5 46 187 693 688 692 mat 1 crossSect 1 nlgeo 1
 layeredCS 1 nlayers 1 layermaterials 1 1 thicks 1 1.0 nintegrationpoints 4
 IsoLE 1 d 1. E 2.0685e7. n 0.3 tAlpha 1.
 BoundaryCondition 1 loadTimeFunction 1 prescribedvalue 0.0 dofs 6 1 2 3 4 5 6 set 1
