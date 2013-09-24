@@ -7,7 +7,9 @@ Circular plate
 A circular plate
 
 - Sets 1
-  1. Set 1 (edge_nodes): contains the nodes on the outer edge of the plate.
+
+  - Set 1 (edge_nodes): contains the nodes on the outer edge of the plate.
+
 - Radius 5
 - Thickness: 0.01.
 - Material used in job file: IsoLE 1 d 1. E 10920e3. n 0.0 tAlpha 1.
@@ -20,6 +22,8 @@ Files:
 - *circ_plate_06.in*: 1037 nodes, 492 elements
 
 - *circ_plate_04.in*: 2641 nodes, 1280 elements
+
+Abaqus results: Correct with linear, waaaay to stiff with nonlinear.
 
 Cantilever ring
 ---------------
@@ -47,6 +51,8 @@ Files
 
 - *cant_ring_05.in*: 3417 nodes, 1600 elements
 
+Abaqus results: Fail to converge, taking 0.005 time steps, reaches 0.17
+
 Pinched hemisphere
 ------------------
 
@@ -65,6 +71,14 @@ Files
 
 - *pinch_hemi_12.in*: 2184 nodes, 1040 elements
 
+Abaqus results: Time step need 0.06 for quite coarse mesh.
+U3 = 8
+U2 = 3.9
+
+0.02 needed for finer mesh, 0.0025 in start..
+
+Finer: U2 = 4.043, U3 = 8.073
+
 Half cylinder
 -------------
 
@@ -76,15 +90,18 @@ Half cylinder with one clamped end and one free. The load is applied to the midd
   - Set 2 (Edges) The nodes where to specify the rotation
   - Set 3 (P) The node where the force is applied
   
-- Radius: 100 (UNSURE ABOUT THIS, COULDNT FIND IN PDF)
-- Thickness: 1
+- Radius: 101.6
+- Length 304.8
+- Thickness: 3.0
 - Material: IsoLE 1 d 1. E 2.0685e7. n 0.3 tAlpha 1.
 
 Files
 
-- *half_cyl_100.in*: 693 nodes, 320 elements
+- *half_cyl_180.in*: 1295 nodes, 612 elements
 
-- *half_cyl_75.in*: 1107 nodes, 520 elements
+- *half_cyl_150.in*: 2025 nodes, 968 elements
 
-- *half_cyl_50.in*: 2665 nodes, 1280 elements
+- *half_cyl_100.in*: 3965 nodes, 1920 elements
+
+Abaqus results: Does not converge, refining the mesh leads to convergence failure at an earlier time.
 
