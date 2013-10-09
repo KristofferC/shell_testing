@@ -1,6 +1,6 @@
 cant_ring_12.out
 Cantilever ring shell element test
-NonLinearStatic nsteps 101 deltaT 0.01 rtolf 5.0e-5 rtold -1.0 maxiter 25 controlmode 1 nmodules 1 lstype 3 smtype 7 manrmsteps 1 initialguess 1
+NonLinearStatic nsteps 101 deltaT 0.01 rtolf 5.0e-5 rtold -1.0 maxiter 25 refloadmode 1 controlmode 1 nmodules 1 lstype 3 smtype 7 manrmsteps 1 initialguess 1
 vtkxml tstep_step 10 dofman_all element_all primvars 2 1 15 vars 2 1 4
 domain 3dDirShell 
 OutputManager tstep_step 10 dofman_all element_all

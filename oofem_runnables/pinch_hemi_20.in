@@ -1,10 +1,10 @@
-pinch_hemi_15.out
+pinch_hemi_20.out
 Pinched hemisphere shell element test
-NonLinearStatic nsteps 101 deltaT 0.01 rtolf 5.0e-5 rtold -1.0 maxiter 25 controlmode 1 nmodules 1 lstype 3 smtype 7 manrmsteps 1 initialguess 1
-vtkxml tstep_step 10 dofman_all element_all primvars 2 1 15 vars 2 1 4
+NonLinearStatic nsteps 101 deltaT 0.01 rtolf 5.0e-5 rtold -1.0 maxiter 25 refloadmode 1 controlmode 1 nmodules 1 lstype 4 smtype 10 manrmsteps 1 initialguess 1
+vtkxml tstep_step 5 dofman_all element_all primvars 2 1 15 vars 2 1 4
 domain 3dDirShell 
-OutputManager tstep_step 10 dofman_all element_all
-ndofman 832 nelem 384 ncrosssect 1 nmat 1 nbc 1 nic 0 nltf 1 nset 8
+OutputManager tstep_step 5 dofman_all element_all
+ndofman 832 nelem 384 ncrosssect 1 nmat 1 nbc 5 nic 0 nltf 1 nset 8
 node 1 coords 3 0.000000000000 9.510564800000 -3.090169910000 bc 7 1 0 0 0 0 0 0
 node 2 coords 3 0.000000000000 0.000000000000 -10.000000000000 bc 7 1 1 0 0 0 0 0 load 1 2
 node 3 coords 3 -10.000000000000 0.000000000000 0.000000000000 bc 7 0 0 1 0 0 0 0 load 1 5
@@ -1224,10 +1224,10 @@ tr2shell7 384 nodes 6 77 8 63 832 671 831 mat 1 crossSect 1 nlgeo 1
 layeredCS 1 nlayers 1 layermaterials 1 1 thicks 1 0.04 nintegrationpoints 4
 IsoLE 1 d 1. E 6.825e7. n 0.3 tAlpha 1.
 BoundaryCondition 1 loadTimeFunction 1 prescribedvalue 0.0 dofs 6 1 2 3 4 5 6
-NodalLoad 2 loadTimeFunction 1 Components 7 0. 0. -200. 0. 0. 0. 0.0
-NodalLoad 3 loadTimeFunction 1 Components 7 0. 0. 200. 0. 0. 0. 0.0
-NodalLoad 4 loadTimeFunction 1 Components 7 -200. 0. 0. 0. 0. 0. 0.0
-NodalLoad 5 loadTimeFunction 1 Components 7 200. 0. 0. 0. 0. 0. 0.0
+NodalLoad 2 loadTimeFunction 1 Components 7 0. 0. -400. 0. 0. 0. 0.0
+NodalLoad 3 loadTimeFunction 1 Components 7 0. 0. 400. 0. 0. 0. 0.0
+NodalLoad 4 loadTimeFunction 1 Components 7 -400. 0. 0. 0. 0. 0. 0.0
+NodalLoad 5 loadTimeFunction 1 Components 7 400. 0. 0. 0. 0. 0. 0.0
 PiecewiseLinFunction 1 npoints 2 t 2 0 1 f(t) 2 0 1.0
 # X0Y0Z-1
 Set 1 nodes 1 2
